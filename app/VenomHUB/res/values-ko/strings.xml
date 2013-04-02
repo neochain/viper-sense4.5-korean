@@ -21,6 +21,7 @@
     <string name="howto">적용하는 법</string>
     <string name="howto_sense">베놈트윅->센스->아이콘 팩->설치한 아이콘 선택</string>
     <string name="howto_systemui">베놈트윅->상태바->상태바 아이콘 테마->테마 팩이나 아이콘 선택</string>
+    <string name="howto_keyboard">베놈트윅->버튼->키보드 스킨->설치한 스킨 선택</string>
     <string name="download">다운로드</string>
     <string name="uninstall">제거</string>
     <string name="remove">삭제</string>
@@ -68,16 +69,17 @@
     <string name="skins">센스 스킨</string>
     <string name="skins_summary">HTC 센스에 관한 더 많은 스킨</string>
     <string name="skin">스킨</string>
+    <string name="keyboard_notif">키보드 스킨</string>
     <string name="kernels">커널</string>
     <string name="kernel">커널</string>
     <string name="kernels_summary">당신의 기기를 위한 다른 커널</string>
     <string name="changes">Changes</string>
     <string name="version">커널 버전</string>
     <string name="version_s">버전:</string>
-    <string name="info">More</string>
+    <string name="info">더 보기</string>
     <string name="kernel_reboot_recovery">커널을 설치하기 위해서는 리커버리모드로 가야합니다. 계속하시겠습니까?</string>
     <string name="kernel_install_warning">커널을 바꾸는 것은 위험합니다!! 무한부팅이나 벽돌이 될 수도 있습니다.</string>
-    <string name="donate">Donate</string>
+    <string name="donate">기부</string>
     <string name="flash">애드온</string>
     <string name="flash_summary">풀테마, 시스템 소프트웨어 등</string>
     <string name="addon_reboot_recovery">애드온을 설치하기 위해서는 리커버리모드로 가야합니다. 계속하시겠습니까?</string>
@@ -85,4 +87,6 @@
     <string name="menu_register">등록</string>
     <string name="menu_clean_cache">캐시 삭제</string>
     <string name="toast_cache_cleaned">캐시가 삭제되었습니다!</string>
+    <string name="keyboard">키보드 스킨</string>
+    <string name="keyboard_summary">HTC 키보드를 위한 스킨</string>
 </resources>
