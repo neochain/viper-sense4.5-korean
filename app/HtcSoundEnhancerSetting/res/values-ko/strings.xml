@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound_enhancer">음질 향상</string>
+    <string name="no_effects">효과 없음</string>
+    <string name="classical">클래식</string>
+    <string name="vocal">보컬</string>
+    <string name="bass_boost">베이스 부스트</string>
+    <string name="treble_boost">트레블 부스트</string>
+    <string name="live">라이브</string>
+    <string name="dance">댄스</string>
+    <string name="warmth">온기</string>
+    <string name="sweetener">스위트너</string>
+    <string name="beats_audio">Beats Audio</string>
+    <string name="more_effects_dialog_title">더 보기</string>
+    <string name="disable_ui_headset">음질 향상은 휴대폰 스피커에서 사용할 수 없음</string>
+    <string name="disable_ui_hdmi">HDMI 연결 시 음질 향상을 사용할 수 없음</string>
+    <string name="ur_beats_headset">Beats urBeats</string>
+    <string name="solo_beats_headset">Beats Solo</string>
+    <string name="studio_beats_headset">Beats Studio</string>
+    <string name="pro_beats_headset">Beats Pro</string>
+    <string name="other_headset">기타</string>
+    <string name="headset_title">헤드셋</string>
+    <string name="srs">SRS</string>
+    <string name="dolby">돌비</string>
+    <string name="htc">HTC Enhance</string>
+    <string name="speaker">보이스</string>
+    <string name="srs51">HTC 5.1</string>
+    <string name="Blues">블루스</string>
+    <string name="Country">컨트리</string>
+    <string name="Jazz">재즈</string>
+    <string name="Latin">라틴</string>
+    <string name="NewAge">뉴 에이지</string>
+    <string name="Piano">피아노</string>
+    <string name="Pop">팝</string>
+    <string name="RnB">알앤비</string>
+    <string name="Rock">락</string>
+    <string name="custom">사용자설정</string>
+</resources>

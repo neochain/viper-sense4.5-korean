@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HtcBeatsNotify</string>
+    <string name="beats_audio">비츠 오디오</string>
+    <string name="enabled">사용중</string>
+    <string name="disabled">사용안함</string>
+    <string name="effects">음악 효과</string>
+    <string name="dolby">돌비 모바일</string>
+    <string name="srs">SRS</string>
+    <string name="voice">목소리</string>
+    <string name="eq">이퀄라이저</string>
+    <string name="classical">클래식</string>
+    <string name="vocal">보컬</string>
+    <string name="bass_boost">베이스 부스트</string>
+    <string name="treble_boost">고음 강조</string>
+    <string name="Piano">피아노</string>
+    <string name="Country">컨트리</string>
+    <string name="Newage">뉴에이지</string>
+    <string name="Blues">블루스</string>
+    <string name="Rock">락</string>
+    <string name="Jazz">재즈</string>
+    <string name="Latin">라틴</string>
+    <string name="Pop">팝</string>
+    <string name="Rnb">알앤비</string>
+    <string name="live">라이브</string>
+    <string name="dance">댄스</string>
+    <string name="warm">온기</string>
+    <string name="sweet">스위트너</string>
+    <string name="custom">사용자 설정</string>
+</resources>

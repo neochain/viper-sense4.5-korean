@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="background">
+        <item>Appdrawer background</item>
+        <item>Notification pull down background</item>
+        <item>취소</item>
+    </string-array>
+</resources>

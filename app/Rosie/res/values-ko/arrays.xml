@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_sort">
+        <item>사전 순서정렬(A-Z)</item>
+        <item>날짜(최근순)</item>
+        <item>날짜(과거순)</item>
+    </string-array>
+    <string-array name="default_scene_folder_title">
+        <item>Favorites</item>
+    </string-array>
+    <string-array name="default_scene_folder_title_id">
+        <item>nn_favorites</item>
+    </string-array>
+    <string-array name="default_scene_folder_title_local">
+        <item>Favorites</item>
+    </string-array>
+    <string-array name="default_scene_folder_title_id_local">
+        <item>default_scene_folder_title</item>
+    </string-array>
+</resources>
