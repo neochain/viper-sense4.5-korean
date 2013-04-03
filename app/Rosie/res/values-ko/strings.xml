@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="application_name">Launcher</string>
+    <string name="application_name">런처</string>
     <string name="uid_name">Android Core 응용 프로그램</string>
     <string name="default_scene_folder_title">즐겨찾기</string>
     <string name="folder_name">폴더</string>
@@ -30,7 +30,7 @@
     <string name="folder_toast_item_full">폴더가 꽉 차서 다른 응용 프로그램을 추가할 수 없습니다.</string>
     <string name="folder_toast_item_duplicate">바로 가기가 이미 있습니다.</string>
     <string name="title_allapps_add_to_folder">폴더에 추가할 응용 프로그램 선택</string>
-    <string name="menu_item_add_item">Add to Home screen</string>
+    <string name="menu_item_add_item">홈 화면에 추가</string>
     <string name="group_shortcuts">바로가기</string>
     <string name="group_folder">새 폴더</string>
     <string name="group_live_folders">폴더</string>
@@ -48,13 +48,13 @@
     <string name="title_select_live_folder">폴더 선택</string>
     <string name="all_apps_button_label">응용 프로그램</string>
     <string name="menu_manage_apps">응용 프로그램 관리</string>
-    <string name="menu_rearrange_apps">다시 정렬</string>
-    <string name="menu_hide_apps">응용 프로그램 숨기기</string>
     <string name="menu_gestures">동작</string>
     <string name="menu_allapps">모든 응용 프로그램</string>
     <string name="menu_addToHome">초기 화면에 추가</string>
     <string name="menu_personalize">개인 설정</string>
     <string name="menu_editHome">편집 홈</string>
+    <string name="menu_rearrange_apps">다시 정렬</string>
+    <string name="menu_hide_apps">응용 프로그램 숨기기</string>
     <string name="cab_menu_delete_app">응용 프로그램 제거</string>
     <string name="cab_menu_app_info">응용 프로그램 세부 사항</string>
     <string name="cab_app_selection_text">1개의 응용 프로그램을 선택함</string>
@@ -122,8 +122,8 @@
     <string name="quicktips_dialog_question">빠른 팁에는 장치의 기능을 처음 사용할 때 활용할 수 있는 유용한 정보가 포함되어 있습니다. 빠른 팁을 계속 표시하시겠습니까?</string>
     <string name="hide_apps_header_bar">숨길 응용 프로그램 선택</string>
     <string name="rearrange_apps_header_bar">다시 정렬할 항목 끌기</string>
+    <string name="all_apps_smart_pass">Smart Pass</string>
     <string name="menu_tweaks">베놈 트윅</string>
-    <string name="menu_lock_home">Lock/unlock workspaces</string>
-    <string name="lock_home_allow">바탕화면 잠금해제</string>
-    <string name="lock_home_deny">바탕화면 잠금</string>
+    <string name="menu_lock_home">바탕화면 잠금</string>
+    <string name="menu_hub">베놈 HUB</string>
 </resources>
