@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SD관리자</string>
+    <string name="app_name">SD카드 연결</string>
     <string name="settings">설정</string>
     <string name="connect_to_pc">PC와 연결</string>
     <string name="disconnect_from_pc">PC와 연결해제</string>
     <string name="notification_title">SD카드</string>
-    <string name="notification_summary_connected">Connected to PC as Mass Storage</string>
-    <string name="notification_summary_disconnected">Connect to PC as Mass Storage</string>
+    <string name="notification_summary_connected">PC에 Mass Storage로 연결됨</string>
+    <string name="notification_summary_disconnected">PC와 Mass Storage로 연결</string>
     <string name="auto_mount">자동 연결</string>
     <string name="auto_mount_summary">USB에 꽂는 순간 PC와 자동으로 연결합니다</string>
     <string name="show_notification">알림 보여주기</string>
@@ -15,8 +15,8 @@
     <string name="mb">MB</string>
     <string name="gb">GB</string>
     <string name="not_configured">Not configured</string>
-    <string name="connected2pc">Connected to PC</string>
-    <string name="connected2phone">Not connected to PC</string>
+    <string name="connected2pc">PC와 연결됨</string>
+    <string name="connected2phone">PC와 연결되지 않음</string>
     <string name="space">%2$s 중 %1$s 사용가능</string>
     <string name="tips">"&lt;b>Tips:&lt;/b>&lt;ul> &lt;li>To connect as Mass Storage to PC, connect your phone to the PC via USB cable and press 'Connect to PC'. &lt;li>To disconnect Mass Storage from PC, press 'Disconnect from PC' or simply disconnect the USB cable. &lt;li>When Mass Storage is connected to PC you can't acess data on it from the phone. &lt;/ul>"</string>
 </resources>
