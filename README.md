@@ -1,4 +1,4 @@
-Sense 4+ - Viper ROM Korean
+Sense 4+  Viper ROM Korean
 ====================
 
 Venom Team's Sense Rom (Sense4+) Korean Translate by 젤리콩까네(neochain)
