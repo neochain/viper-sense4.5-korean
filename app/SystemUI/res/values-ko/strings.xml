@@ -179,10 +179,10 @@
     <string name="status_Bar_quick_setting_wifi">Wi-Fi</string>
     <string name="status_Bar_quick_setting_airplane">비행기 모드</string>
     <string name="status_Bar_quick_setting_powersaver">배터리절약</string>
-    <string name="lockscreen_missing_uimsim_message_short">No UIM/SIM card</string>
-    <string name="lockscreen_uimsim_fail_message">UIM/SIM card Locked</string>
-    <string name="lockscreen_missing_uim_message_short">No UIM card</string>
-    <string name="lockscreen_uim_fail_message">UIM card Locked</string>
+    <string name="lockscreen_missing_uimsim_message_short">UIM/SIM 카드 없음</string>
+    <string name="lockscreen_uimsim_fail_message">UIM/SIM 카드 잠김</string>
+    <string name="lockscreen_missing_uim_message_short">UIM 카드가 없음</string>
+    <string name="lockscreen_uim_fail_message">UIM 카드 잠김</string>
     <string name="eqs_adb_disabled">Wi-Fi를 면저 켜주세요</string>
     <string name="eqs_adb_enabled">연결됨</string>
     <string name="ext_meminfo">%2$d MB 중 %1$d MB 사용가능</string>
