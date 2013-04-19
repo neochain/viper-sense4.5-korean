@@ -11,7 +11,7 @@
     <string name="eq">이퀄라이저</string>
     <string name="classical">클래식</string>
     <string name="vocal">보컬</string>
-    <string name="bass_boost">베이스 부스트</string>
+    <string name="bass_boost">저음 강조</string>
     <string name="treble_boost">고음 강조</string>
     <string name="Piano">피아노</string>
     <string name="Country">컨트리</string>
