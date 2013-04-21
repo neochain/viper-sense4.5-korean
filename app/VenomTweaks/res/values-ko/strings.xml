@@ -1,4 +1,4 @@
-씨<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="thread">쓰레드</string>
     <string name="getmore">더보기</string>
@@ -49,8 +49,8 @@
     <string name="different_tweaks">기타 트윅</string>
     <string name="phone_info">폰 정보</string>
     <string name="phone_info_summary">숨겨진 HTC 폰의 정보</string>
-    <string name="capacitive_backlight">Capacitive Backlight</string>
-    <string name="capacitive_backlight_summary">Allows you to change the brightness of the capacitive buttons</string>
+    <string name="capacitive_backlight">하단 불빛 밝기</string>
+    <string name="capacitive_backlight_summary">하단의 하드웨어키의 밝기를 선택합니다</string>
     <string name="overscroll_glow_color">오버스크롤 색깔</string>
     <string name="overscroll_glow_color_summary">오버스크롤할때 생기는 색을 정합니다</string>
     <string name="volume_steps">Volume Steps</string>
@@ -203,7 +203,7 @@
     <string name="htc_settings">HTC 숨겨진 설정</string>
     <string name="fixing_optimizing">최적화</string>
     <string name="fix_permissions">권한 수정</string>
-    <string name="zipalign_apks">집얼라인</string>
+    <string name="zipalign_apks">모든 애플리케이션을 집얼라인중입니다</string>
     <string name="system">시스템</string>
     <string name="mount_system_rw">시스템을 r/w로 마운트</string>
     <string name="wipes">삭제</string>
@@ -490,8 +490,8 @@
     <string name="bugreport_instruction">&lt;p>&lt;b>버그리포트 생성중:&lt;/b> &lt;p> &lt;ul> &lt;li>Press Start recording button &lt;li>Perform actions to make error &lt;li>If you want to attach screenshots to the report, longpress home button to take screenshot, and it will be attached &lt;li>Press on the notification in notification area to stop recording &lt;li>Open Venom/BugReports folder on your sdcard with any file explorer, and send to us generated zip file &lt;/ul> &lt;/p></string>
     <string name="allowed_rotations">회전 각도</string>
     <string name="allowed_rotations_summary">회전을 사용했을 때 허용하는 각도를 설정합니다</string>
-    <string name="quick_flash">빠른 플래시라이트</string>
-    <string name="quick_flash_summary">화면이 꺼져 있을 때, 전원 버튼을 길게 눌러 플래시라이트를 킵니다.  전원 버튼을 떼면 플래시라이트는 꺼집니다.</string>
+    <string name="quick_flash">Quick flashlight</string>
+    <string name="quick_flash_summary">While screen is off, long-press the power button to turn on flashlight. As soon as you will release power button, flashlight will turn off</string>
     <string name="lockscreen_clock_style">시계 크기</string>
     <string name="lockscreen_clock_style_summary">잠금화면의 시계 크기를 설정합니다</string>
     <string name="rosie_menu">메뉴 설정</string>

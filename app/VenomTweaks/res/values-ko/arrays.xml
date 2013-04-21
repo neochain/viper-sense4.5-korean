@@ -524,12 +524,12 @@
         <item>0</item>
     </string-array>
     <string-array name="pref_capacitive_backlight_entries">
-        <item>Default</item>
-        <item>Dim</item>
-        <item>Automatic</item>
-        <item>Always off</item>
-        <item>Always on, Full</item>
-        <item>Always on, Dim</item>
+        <item>기본</item>
+        <item>어두움</item>
+        <item>자동</item>
+        <item>항상 꺼짐</item>
+        <item>항상 켜짐, 밝음</item>
+        <item>항상 켜짐, 어두움</item>
     </string-array>
     <string-array name="capacitive_backlight_values">
         <item></item>
