@@ -89,4 +89,6 @@
     <string name="toast_cache_cleaned">캐시가 삭제되었습니다!</string>
     <string name="keyboard">키보드 스킨</string>
     <string name="keyboard_summary">HTC 키보드를 위한 스킨</string>
+    <string name="tab_info">정보</string>
+    <string name="tab_downloads">다운로드</string>
 </resources>
