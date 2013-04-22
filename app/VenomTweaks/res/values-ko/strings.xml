@@ -529,4 +529,8 @@
     <string name="gpu3d_oc_summary">3D GPU 클럭을 변경합니다</string>
     <string name="fast_charge_summary">휴대전화를 더 빨리 충전합니다</string>
     <string name="fast_charge">빠른 충전</string>
+    <string name="zram_devs">ZRAM devices</string>
+    <string name="zram_size">ZRAM size (total)</string>
+    <string name="htc_animation">HTC switching animation</string>
+    <string name="htc_animation_summary">Allows you select animation type while switching tabs in HTC apps</string>
 </resources>

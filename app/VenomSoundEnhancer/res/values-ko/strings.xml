@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">음질 향상</string>
+    <string name="effects">효과</string>
+    <string name="eqalizer">이퀄라이</string>
+    <string name="headphones">헤드폰</string>
+    <string name="speaker">스피커</string>
+    <string name="xloud">xLoud</string>
+    <string name="clearaudio">ClearPhase</string>
+    <string name="custom_title">새 이퀄라이저</string>
+</resources>
