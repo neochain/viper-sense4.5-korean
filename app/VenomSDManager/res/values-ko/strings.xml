@@ -18,5 +18,5 @@
     <string name="connected2pc">PC와 연결됨</string>
     <string name="connected2phone">PC와 연결되지 않음</string>
     <string name="space">%2$s 중 %1$s 사용가능</string>
-    <string name="tips">"&lt;b>Tips:&lt;/b>&lt;ul> &lt;li>To connect as Mass Storage to PC, connect your phone to the PC via USB cable and press 'Connect to PC'. &lt;li>To disconnect Mass Storage from PC, press 'Disconnect from PC' or simply disconnect the USB cable. &lt;li>When Mass Storage is connected to PC you can't acess data on it from the phone. &lt;/ul>"</string>
+    <string name="tips">"&lt;b>Tips:&lt;/b>&lt;ul> &lt;li>이동식 저장소로 PC와 연결하기 위해서는, PC와 USB 케이블로 연결한 후  'PC와 연결'을 누르세요. &lt;li>PC에서 이동식 저장소를 해제하기 위해서는, 'PC와 연결해제'를 누르거나 간단히 USB 케이블을 빼세요. &lt;li>PC와 이동식 저장소로 연결할때는 폰의 데이터에 접근할수 없습니다. &lt;/ul>"</string>
 </resources>
