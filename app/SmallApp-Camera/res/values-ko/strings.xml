@@ -82,12 +82,12 @@
     <string name="camera_mode">카메라 모드</string>
     <string name="camera_id">카메라</string>
     <string name="camera_mode_카메라">카메라</string>
-    <string name="camera_mode_video">Video</string>
-    <string name="camera_mode_silent">Silent</string>
+    <string name="camera_mode_video">비디오</string>
+    <string name="camera_mode_silent">무음</string>
     <string name="camera_mode_burst">Burst</string>
     <string name="camera_id_back">후면카메라</string>
     <string name="camera_id_front">전면카메라</string>
     <string name="video_resolution_QVGA">QVGA</string>
-    <string name="freeResize">To freely change the screen size.</string>
+    <string name="freeResize">화면 크기를 마음대로 조절하세요.</string>
     <string name="slide_duration">Slide duration</string>
 </resources>
