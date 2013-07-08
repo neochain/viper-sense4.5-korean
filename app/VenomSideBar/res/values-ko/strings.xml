@@ -10,7 +10,7 @@
     <string name="smallapps">팝업 애플리케이션</string>
     <string name="smallapps_smary">팝업을 사용할 애플리케이션을 선택합니다</string>
     <string name="normalapps">일반 애플리케이션</string>
-    <string name="normalapps_summary">패널에서 사용할 일반애플리케이션을 선택합니다</string>
+    <string name="normalapps_summary">패널에서 사용할 일반 애플리케이션을 선택합니다</string>
     <string name="behavior">모양</string>
     <string name="recentapps">최근 애플리케이션</string>
 </resources>
