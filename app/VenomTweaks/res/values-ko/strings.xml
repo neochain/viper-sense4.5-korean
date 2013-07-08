@@ -111,7 +111,7 @@
     <string name="appdrawer_columns_summary">Change number of columns in app drawer</string>
     <string name="paginated_app_drawer">Paginated app drawer</string>
     <string name="paginated_app_drawer_summary">Use pages when scrolling?</string>
-    <string name="rosie_enable_transparency_summary">Will add a transparancy to app drawer</string>
+    <string name="rosie_enable_transparency_summary">Will add a transparency to app drawer</string>
     <string name="dialog_apply">적용</string>
     <string name="hide_date">날짜 숨기기</string>
     <string name="hide_date_summary">알림 영역에서 날짜를 숨깁니다</string>
@@ -134,8 +134,6 @@
     <string name="clock_hide_ampm">오전/오후 숨기기</string>
     <string name="recentapps_hideicons">Hide app icons</string>
     <string name="recentapps_hideicons_summary">Hides app icons in recent apps dialog</string>
-    <string name="recentapps_custombg">배경 이미지 사용</string>
-    <string name="recentapps_custombg_summary">최근 앱에 보여질 배경이미지를 선택합니다</string>
     <string name="statusbar_custombg">배경 이미지 사용</string>
     <string name="statusbar_custombg_summary">상태바를 내린후에 보여질 배경이미지를 선택합니다</string>
     <string name="rosie_custombg">배경 이미지 사용</string>
@@ -225,7 +223,9 @@
     <string name="longress_home_ls">홈키를 길게 눌렀을때</string>
     <string name="longress_home_ls_summary">잠금화면에서 홈키를 길게 누를떄 작업을 선택합니다</string>
     <string name="use_xloud">Sony XLoud 활성화</string>
-    <string name="use_xloud_summary">소니의 소리 관련 기술</string>
+    <string name="use_xloud_summary">소니의 음향 기술</string>
+	<string name="use_clearphase">Sony ClearPhase 활성화</string>
+    <string name="use_clearphase_summary">소니의 음향 기술</string>
     <string name="use_bravia">Sony Bravia 활성화</string>
     <string name="use_bravia_summary">소니의 사진 관련 기술</string>
     <string name="boot">부트</string>
@@ -241,8 +241,6 @@
     <string name="fb_summary">페이스북을 방문</string>
     <string name="g">구글 +</string>
     <string name="g_summary">구글+ 방문</string>
-    <string name="cube_animation">큐브 애니메이션</string>
-    <string name="cube_animation_summary">센스런처의 어플서랍 탭을 바꿀때 큐브 애니메이션을 사용합니다</string>
     <string name="unlock_slide">슬라이드로 잠금 해제</string>
     <string name="unlock_slide_summary">홈키에서 검색키까지 슬라이드를 하면 잠금해제가 되게 합니다</string>
     <string name="fast_dormancy">빠른 휴면</string>
@@ -259,6 +257,7 @@
     <string name="gesture_up">위</string>
     <string name="gesture_right">오른쪽</string>
     <string name="systemui_theme">상태바 아이콘 테마</string>
+    <string name="systemui_theme_summary">상태바의 아이콘과 배경을 변경합니다</string>
     <string name="icons_theme">아이콘</string>
     <string name="systemui_theme_pack">테마 팩</string>
     <string name="systemui_theme_pack_summary">테마에 있는 모든 아이콘 적용</string>
@@ -459,7 +458,7 @@
     <string name="headerclock_style_summary">알림 영역에서 시계를 숨깁니다</string>
     <string name="statusbar_date_color">날짜 색깔</string>
     <string name="widget_switch">가로토글/바로가기 순서</string>
-    <string name="widget_switch_summary">상태바를(알림탭일때) 길게 누르면 나오는 순서를 변경합니다</string>
+    <string name="widget_switch_summary">상태바를(알림탭일때) 시간을 길게 누르면 나오는 순서를 변경합니다</string>
     <string name="nfc_mode">NFC Restrictions</string>
     <string name="nfc_mode_summary">Allows you to select when NFC must work</string>
     <string name="wipe_dalvik_cache">달빅 캐쉬 삭제</string>
@@ -533,4 +532,21 @@
     <string name="zram_size">ZRAM size (total)</string>
     <string name="htc_animation">HTC switching animation</string>
     <string name="htc_animation_summary">Allows you select animation type while switching tabs in HTC apps</string>
+    <string name="fakeimei">Fake IMEI</string>
+    <string name="fakeimei_summary">Allows you to specify what imei will be reported to apps</string>
+    <string name="random_imei">Random</string>
+    <string name="fakeimei_dialog">If you want use random IMIE just left this input field empty</string>
+    <string name="weather_bgcolor">날씨 배경</string>
+    <string name="weather_bgcolor_summary">날씨의 배경 화면을 선택합니다</string>
+    <string name="speed_view">네트워크 속도</string>
+    <string name="speed_view_summary">상태바에 네트워크 속도를 표시합니다</string>
+    <string name="speed_color">속도 색깔</string>
+    <string name="speed_color_summary">네트워크 속도의 색을 변경합니다</string>
+    <string name="extended_bgcolor">Background color</string>
+    <string name="extended_bgcolor_summary">Set background color of information line</string>
+    <string name="opaque_statusbar">Solid background</string>
+    <string name="opaque_statusbar_summary">Use solid background color instead of default gradient</string>
+    <string name="topstatusbar_bgcolor">Solid color</string>
+    <string name="topstatusbar_bgcolor_summary">Select solid status bar background color</string>
+    <string name="animated_background">Animated background</string>
 </resources>

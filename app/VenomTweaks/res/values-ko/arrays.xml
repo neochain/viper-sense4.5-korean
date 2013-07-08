@@ -2,7 +2,7 @@
 <resources>
     <string-array name="developers">
         <item>X+|developers_viperxplus|2122390</item>
-        <item>S|developers_vipers|1671547</item>
+        <item>S|developers_vipers|2216858</item>
         <item>4G|developers_viper4g|2124391</item>
         <item>DNA|developers_viperdna|2105745</item>
         <item>LTE|developers_viperlte|1891202</item>
@@ -22,17 +22,19 @@
     <string-array name="developers_viperxplus">
         <item>m0narX|1016148|ViperS/X+ ROM owner and developer</item>
         <item>shnizlon|1930589|ViperS/X+ ROM Co owner and developer</item>
+        <item>ivicask|1792279|ViperS/X+ ROM developer, tester and good man</item>
         <item>richmondo|763428|One X ROM chef, Sensation teammmate, developer</item>
     </string-array>
     <string-array name="developers_vipers">
         <item>m0narX|1016148|ViperS/X+ ROM owner and developer</item>
         <item>shnizlon|1930589|ViperS/X+ ROM Co owner and developer</item>
         <item>SebastianFM|2212152|ViperS ROM Co owner, developer, thanks to this man, you have JB on sensation</item>
+        <item>ivicask|1792279|ViperS/X+ ROM developer, tester and good man</item>
         <item>richmondo|763428|One X ROM chef, Sensation teammmate, developer</item>
     </string-array>
     <string-array name="developers_viper4g">
         <item>m0narX|1016148|Team Venom Lead Developer/ViperS/X+ ROM Developer</item>
-        <item>Vinchenzop|2972811|Viper4G Lead Developer</item>
+        <item>Vinchenzop|2972811|Viper4G Lead Developer/ViperDNA Co Developer</item>
         <item>-viperboy-|518868|Viper4G Lead Developer</item>
         <item>smw6180|670396|Performance Tuning/Lead Beta Tester</item>
         <item>Mayfield103|3740783|Viper4G Lead Themer</item>
@@ -43,6 +45,7 @@
     </string-array>
     <string-array name="developers_viperdna">
         <item>m0narX|1016148|Team Venom Lead Developer/ViperS/X+ ROM Developer</item>
+        <item>Vinchenzop|2972811|ViperDNA Co Developer/Viper4G Lead Developer</item>
         <item>nitsuj17|2879887|ViperDNA/LTE/WVGA developer</item>
         <item>richmondo|763428|One X ROM chef, Venom developer</item>
     </string-array>
@@ -60,6 +63,26 @@
     <string-array name="developers_viperxl">
         <item>m0narX|1016148|Team Venom Lead Developer/ViperS/X+ ROM Developer</item>
         <item>Turge|1225716|Viper XL/XL+ Lead Developer</item>
+    </string-array>
+    <string-array name="background_type">
+        <item>사진</item>
+        <item>애니메이션</item>
+    </string-array>
+    <string-array name="htc_animation_entries">
+        <item>애니메이션 없음</item>
+        <item>Show titles</item>
+        <item>Shift with content</item>
+        <item>Shift</item>
+        <item>Cube with content</item>
+        <item>큐브</item>
+    </string-array>
+    <string-array name="htc_animation_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
     </string-array>
     <string-array name="rosie_menu_entries">
         <item>바탕화면 잠금</item>
@@ -122,9 +145,9 @@
         <item>2</item>
     </string-array>
     <string-array name="rosie_navbar_transp_entries">
-        <item>Default</item>
-        <item>Transparent</item>
-        <item>Sense 5</item>
+        <item>기본</item>
+        <item>투명</item>
+        <item>센스 5</item>
     </string-array>
     <string-array name="rosie_navbar_transp_values">
         <item>0</item>
@@ -404,10 +427,10 @@
         <item>10</item>
     </string-array>
     <string-array name="battery_text_display_entries">
-        <item>Regular %</item>
-        <item>Small %</item>
-        <item>No %</item>
-        <item>Hide Text</item>
+        <item>중간 %</item>
+        <item>작은 %</item>
+        <item>% 없음</item>
+        <item>숨기기</item>
     </string-array>
     <string-array name="battery_text_display_values">
         <item>1</item>
