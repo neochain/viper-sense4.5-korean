@@ -1283,18 +1283,19 @@
     <string name="permdesc_accessAutoFilenode">Allows an application to access autobot file</string>
     <string name="permlab_getpreloadpackages">Get uninstalled preload APs</string>
     <string name="permdesc_getpreloadpackages">Allows the APs could use this API to get uninstalled preload APs.</string>
-    <string name="apm_reboot">다시 시작</string>
-    <string name="apm_reboot_summary">모든 앱을 닫고 재시작합니다</string>
+	<string name="apm_reboot">다시 시작</string>
+    <string name="apm_reboot_summary">모든 앱을 닫고 다시 시작합니다</string>
     <string name="apm_title">다시 시작 메뉴</string>
     <string name="apm_hotreboot">빠른 시작</string>
-    <string name="apm_hotreboot_summary">쉘을 재시작합니다</string>
+    <string name="apm_hotreboot_summary">쉘을 다시 시작합니다</string>
     <string name="apm_recovery">리커버리</string>
     <string name="apm_recovery_summary">리커버리로 부팅합니다</string>
     <string name="apm_bootloader">부트로더</string>
     <string name="apm_bootloader_summary">부트로더로 부팅합니다</string>
     <string name="apm_safemode">안전모드</string>
-    <string name="apm_safemode_summary">재시작하고 제3자 앱은 비활성화합니다</string>
+    <string name="apm_safemode_summary">다시 시작하고 제3자 앱은 비활성화합니다</string>
     <string name="apm_screenshot">스크린샷</string>
-    <string name="apm_screenshot_summary">스크린샷을 찍습니다</string>
+    <string name="apm_screenshot_summary">스크린샷 찍기</string>
     <string name="app_killed">애플리케이션이 종료됨</string>
+    <string name="apm_restart_phone">기기를 다시 시작</string>
 </resources>
