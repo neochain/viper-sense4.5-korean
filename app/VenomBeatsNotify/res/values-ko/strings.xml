@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">HTC비츠알림</string>
-    <string name="beats_audio">비츠 오디오</string>
+    <string name="beats_audio">Beats Audio</string>
     <string name="enabled">사용중</string>
     <string name="disabled">사용안함</string>
     <string name="effects">음악 효과</string>
