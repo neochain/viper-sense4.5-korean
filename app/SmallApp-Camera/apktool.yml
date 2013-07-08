@@ -1,0 +1,13 @@
+version: 1.5.1.2a7cf75682
+apkFileName: SmallApp-Camera.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: api16
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '15'
+packageInfo:
+  cur_package: com.applepie.android.smallcamera
+  orig_package: com.applepie.android.smallcamera

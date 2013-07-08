@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_main_items">
+        <item>@string/camera_mode</item>
+        <item>@string/camera_id</item>
+        <item>@string/flash_mode</item>
+        <item>@string/resolution_mode</item>
+        <item>@string/storage_mode</item>
+        <item>@string/filter</item>
+        <item>@string/focus</item>
+        <item>@string/whitebalance</item>
+        <item>@string/antibanding</item>
+        <item>@string/scene</item>
+        <item>@string/shutterSound_enable</item>
+        <item>@string/photo_light</item>
+        <item>@string/video_resolution_mode</item>
+        <item>@string/microphone</item>
+    </string-array>
+</resources>
