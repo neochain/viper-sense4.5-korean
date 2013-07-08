@@ -44,7 +44,7 @@
         <item>Beats urBeats v2</item>
         <item>Beats Solo v2</item>
         <item>Mid-Tier</item>
-        <item>Other</item>
+        <item>기타</item>
     </string-array>
     <string-array name="headset_icons">
         <item>headset_urbeats</item>
@@ -65,9 +65,9 @@
     <string-array name="effects_names">
         <item>Beats Audio</item>
         <item>SRS</item>
-        <item>Dolby</item>
-        <item>Voice</item>
-        <item>Eqalizer</item>
+        <item>돌비</item>
+        <item>보이스</item>
+        <item>이퀄라이저</item>
     </string-array>
     <string-array name="effects_icons">
         <item>icon_launcher_beats_red</item>
