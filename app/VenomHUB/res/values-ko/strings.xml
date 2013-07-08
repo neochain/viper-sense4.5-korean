@@ -22,6 +22,7 @@
     <string name="howto_sense">베놈트윅->센스->아이콘 팩->설치한 아이콘 선택</string>
     <string name="howto_systemui">베놈트윅->상태바->상태바 아이콘 테마->테마 팩이나 아이콘 선택</string>
     <string name="howto_keyboard">베놈트윅->버튼->키보드 스킨->설치한 스킨 선택</string>
+    <string name="howto_background">베놈트윅->상태바나 센스->배경 이미지 사용->애니메이션->설치한 배경 선택</string>
     <string name="download">다운로드</string>
     <string name="uninstall">제거</string>
     <string name="remove">삭제</string>
@@ -58,7 +59,7 @@
     <string name="fonts_summary">추가로 가능한 폰트 팩</string>
     <string name="oplogo_changed">사용자 로고가 바뀝니다!</string>
     <string name="appdrawer_changed">배경이 바뀝니다!</string>
-    <string name="set_as">Set as...</string>
+    <string name="set_as">..로 설정.</string>
     <string name="howto_skins">개인설정->스킨->설치한 스킨 선택</string>
     <string name="font_test">한국어는 적용되지 않습니다. 그래도 폰트를 바꾸시겠다면 클릭해주세요</string>
     <string name="restart_title">재부팅</string>
@@ -73,7 +74,7 @@
     <string name="kernels">커널</string>
     <string name="kernel">커널</string>
     <string name="kernels_summary">당신의 기기를 위한 다른 커널</string>
-    <string name="changes">Changes</string>
+    <string name="changes">바뀐 점</string>
     <string name="version">커널 버전</string>
     <string name="version_s">버전:</string>
     <string name="info">더 보기</string>
@@ -91,4 +92,10 @@
     <string name="keyboard_summary">HTC 키보드를 위한 스킨</string>
     <string name="tab_info">정보</string>
     <string name="tab_downloads">다운로드</string>
+	<string name="apply">적용</string>
+    <string name="sort_by_name">이름순(가-하)</string>
+    <string name="sort_by_name_inv">이름순(하-가)</string>
+    <string name="sort_by_date">날짜순(예전)</string>
+    <string name="sort_by_date_inv">날짜순(최신)</string>
+    <string name="force_english">영어 사용</string>
 </resources>
