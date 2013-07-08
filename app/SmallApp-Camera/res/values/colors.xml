@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="divider">#ff999999</color>
-    <color name="divider2">#ff0099cc</color>
-    <color name="menuText">#ffa0a0a0</color>
-    <color name="white">#ffffffff</color>
-    <color name="hold">#60ffffff</color>
-</resources>

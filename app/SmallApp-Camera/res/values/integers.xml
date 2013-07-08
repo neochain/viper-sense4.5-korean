@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <integer name="config_fadeInTime">600</integer>
-    <integer name="config_fadeOutTime">350</integer>
-    <integer name="buttons_fadeInOutTime">300</integer>
-</resources>
