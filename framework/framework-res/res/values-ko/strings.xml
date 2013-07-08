@@ -277,8 +277,8 @@
     <string name="shutdown_progress">종료 중...</string>
     <string name="shutdown_confirm">휴대전화가 종료됩니다.</string>
     <string name="shutdown_confirm_question">종료하시겠습니까?</string>
-    <string name="reboot_safemode_title">안전 모드로 다시 부팅</string>
-    <string name="reboot_safemode_confirm">안전 모드로 다시 부팅하시겠습니까? 그러면 설치한 모든 제3자 애플리케이션을 사용할 수 없게 됩니다. 다시 부팅을 반복하면 애플리케이션이 복원됩니다.</string>
+    <string name="reboot_safemode_title">안전 모드로 다시 시작</string>
+    <string name="reboot_safemode_confirm">안전 모드로 다시 시작하시겠습니까? 그러면 설치한 모든 제3자 애플리케이션을 사용할 수 없게 됩니다. 다시 시작하면 애플리케이션이 복원됩니다.</string>
     <string name="recent_tasks_title">최근</string>
     <string name="no_recent_tasks">최근에 사용한 앱이 없습니다.</string>
     <string name="global_actions">휴대전화 옵션</string>
