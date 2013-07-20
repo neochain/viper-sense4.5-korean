@@ -44,7 +44,7 @@
     <string name="message_send">메시지 전송완료</string>
     <string name="message_send_error">메시지를 보내는데 오류가 생겼습니다</string>
     <string name="notif_title">베놈 HUB의 새로운 항목</string>
-    <string name="notif_start">Updated</string>
+    <string name="notif_start">업데이트됨</string>
     <string name="notif_links">링크</string>
     <string name="notif_news">마지막 뉴스</string>
     <string name="notif_statusbar">상태바 테마</string>
