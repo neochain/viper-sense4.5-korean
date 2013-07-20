@@ -68,6 +68,22 @@
         <item>사진</item>
         <item>애니메이션</item>
     </string-array>
+	<string-array name="notify_timeout_entries">
+        <item>5초</item>
+        <item>10초</item>
+        <item>30초</item>
+        <item>1분</item>
+        <item>2분</item>
+        <item>5분</item>
+    </string-array>
+    <string-array name="notify_timeout_values">
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+    </string-array>
     <string-array name="htc_animation_entries">
         <item>애니메이션 없음</item>
         <item>Show titles</item>

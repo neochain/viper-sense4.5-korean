@@ -549,4 +549,13 @@
     <string name="topstatusbar_bgcolor">Solid color</string>
     <string name="topstatusbar_bgcolor_summary">Select solid status bar background color</string>
     <string name="animated_background">Animated background</string>
+    <string name="misc_notifications">알림</string>
+    <string name="notify_buttons">버튼 알림</string>
+    <string name="notify_buttons_summary">화면이 꺼져있고 선택한 앱의 알림이 왔을때, 버튼 불빛을 깜박입니다</string>
+    <string name="notify_flash">플래시 알림</string>
+    <string name="notify_flash_summary">화면이 꺼져있고 선택한 앱의 알림이 왔을때, 플래시라이트를 깜박입니다</string>
+    <string name="notify_flash_timeout">플래시 시간 제한</string>
+    <string name="notify_flash_timeout_summary">플래시라이트가 깜빡이는 시간을 제한합니다</string>
+    <string name="notify_buttons_timeout">버튼 시간 제한</string>
+    <string name="notify_buttons_timeout_summary">버튼 불빛이 깜빡이는 시간을 제한합니다</string>
 </resources>
