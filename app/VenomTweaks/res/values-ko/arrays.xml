@@ -143,7 +143,7 @@
     <string-array name="systemui_volume_entries">
         <item>기본</item>
         <item>알림 패널 닫기</item>
-        <item>토글/알림 이동</item>
+        <item>알림/빠른 설정 이동</item>
     </string-array>
     <string-array name="systemui_volume_values">
         <item>0</item>
@@ -153,7 +153,7 @@
     <string-array name="systemui_shake_entries">
         <item>아무것도 안 함</item>
         <item>알림 패널 닫기</item>
-        <item>토글/알림 이동</item>
+        <item>알림/빠른 설정 이동</item>
     </string-array>
     <string-array name="systemui_shake_values">
         <item>0</item>
@@ -194,9 +194,9 @@
     </string-array>
     <string-array name="widget_switch_entries">
         <item>없음</item>
-        <item>가로 토글/바로가기/숨기기</item>
-        <item>가로 토글/바로가기</item>
-        <item>가로토글/숨기기</item>
+        <item>빠른 설정/바로가기/숨기기</item>
+        <item>빠른 설정/바로가기</item>
+        <item>빠른 설정/숨기기</item>
         <item>바로가기/숨기기</item>
     </string-array>
     <string-array name="widget_switch_values">
