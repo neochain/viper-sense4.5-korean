@@ -86,10 +86,10 @@
     </string-array>
     <string-array name="htc_animation_entries">
         <item>애니메이션 없음</item>
-        <item>Show titles</item>
+        <item>제목 보여줌</item>
         <item>Shift with content</item>
         <item>Shift</item>
-        <item>Cube with content</item>
+        <item>큐브와 컨텐츠</item>
         <item>큐브</item>
     </string-array>
     <string-array name="htc_animation_values">
@@ -455,7 +455,7 @@
         <item>2</item>
     </string-array>
     <string-array name="pref_overscroll_effect_entries">
-        <item>None</item>
+        <item>없음</item>
         <item>Edge Glow</item>
         <item>Bounce and Glow</item>
         <item>Bounce</item>
@@ -536,10 +536,10 @@
         <item>키보드 아이콘</item>
     </string-array>
     <string-array name="autobrightness_entries">
-        <item>Normal</item>
-        <item>Lower</item>
-        <item>Lowest</item>
-        <item>Manual</item>
+        <item>기본</item>
+        <item>낮음</item>
+        <item>매우 낮음</item>
+        <item>사용자 설정</item>
     </string-array>
     <string-array name="autobrightness_values">
         <item>0</item>
@@ -627,7 +627,7 @@
         <item>멀티태스킹</item>
         <item>멀티태스킹 익스트림</item>
         <item>멀티태스킹 얼티밋</item>
-        <item>메뉴얼</item>
+        <item>사용자 설정</item>
     </string-array>
     <string-array name="minfree_values">
         <item>0</item>
