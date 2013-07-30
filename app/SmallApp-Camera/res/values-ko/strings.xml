@@ -54,8 +54,8 @@
     <string name="scene_fireworks">불꽃놀이</string>
     <string name="scene_party">파티</string>
     <string name="whitebalance">화이트 밸런스</string>
-    <string name="antibanding">AntiBanding</string>
-    <string name="scene">Scene</string>
+    <string name="antibanding">안티밴딩</string>
+    <string name="scene">장면</string>
     <string name="filter">색상 효과</string>
     <string name="touch_enable">Enable touch events.</string>
     <string name="back_camera">후면 카메라</string>
