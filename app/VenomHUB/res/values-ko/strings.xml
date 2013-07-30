@@ -4,7 +4,7 @@
     <string name="news">뉴스</string>
     <string name="news_summary">베놈 팀에 관한 뉴스나 다른 정보를 안내</string>
     <string name="sense_icons">HTC센스 아이콘팩</string>
-    <string name="sense_icons_summary">HTC 센스에 관한 더 많은 아이콘팩</string>
+    <string name="sense_icons_summary">HTC 센스의 많은 아이콘팩</string>
     <string name="status_bar_icons">상태바 테마</string>
     <string name="status_bar_icons_summary">상태바의 아이콘 테마</string>
     <string name="links">유용한 링크</string>
@@ -56,19 +56,20 @@
     <string name="appdrawerbg">배경</string>
     <string name="appdrawerbg_summary">상태바와 어플서랍의 배경</string>
     <string name="fonts">폰트</string>
-    <string name="fonts_summary">추가로 가능한 폰트 팩</string>
+    <string name="fonts_summary">설치가능한 폰트 팩</string>
     <string name="oplogo_changed">사용자 로고가 바뀝니다!</string>
     <string name="appdrawer_changed">배경이 바뀝니다!</string>
     <string name="set_as">..로 설정.</string>
     <string name="howto_skins">개인설정->스킨->설치한 스킨 선택</string>
-    <string name="font_test">한국어는 적용되지 않습니다. 그래도 폰트를 바꾸시겠다면 클릭해주세요</string>
+    <string name="font_test">폰트를 바꾸려면 클릭해주세요.
+English 한국어 12345	</string>
     <string name="restart_title">재부팅</string>
     <string name="phone_restart">재부팅이 필요합니다,하시겠습니까?</string>
     <string name="phone_full_restart">재부팅이 필요합니다,하시겠습니까?</string>
     <string name="faq">F.A.Q.</string>
     <string name="faq_summary">질문하시기 전에 FAQ를 참고해주세요</string>
     <string name="skins">센스 스킨</string>
-    <string name="skins_summary">HTC 센스에 관한 더 많은 스킨</string>
+    <string name="skins_summary">HTC 센스의 많은 스킨</string>
     <string name="skin">스킨</string>
     <string name="keyboard_notif">키보드 스킨</string>
     <string name="kernels">커널</string>
@@ -79,10 +80,10 @@
     <string name="version_s">버전:</string>
     <string name="info">더 보기</string>
     <string name="kernel_reboot_recovery">커널을 설치하기 위해서는 리커버리모드로 가야합니다. 계속하시겠습니까?</string>
-    <string name="kernel_install_warning">커널을 바꾸는 것은 위험합니다!! 무한부팅이나 벽돌이 될 수도 있습니다.</string>
+    <string name="kernel_install_warning">커널을 바꾸는 것은 위험합니다!! 벽돌이 될 수도 있습니다.</string>
     <string name="donate">기부</string>
     <string name="flash">애드온</string>
-    <string name="flash_summary">풀테마, 시스템 소프트웨어 등</string>
+    <string name="flash_summary">애플리케이션, 키보드, 센스5사운드</string>
     <string name="addon_reboot_recovery">애드온을 설치하기 위해서는 리커버리모드로 가야합니다. 계속하시겠습니까?</string>
     <string name="menu_change_nick">이름 바꾸기</string>
     <string name="menu_register">등록</string>
