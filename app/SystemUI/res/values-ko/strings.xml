@@ -183,7 +183,7 @@
     <string name="lockscreen_uimsim_fail_message">UIM/SIM 카드 잠김</string>
     <string name="lockscreen_missing_uim_message_short">UIM 카드가 없음</string>
     <string name="lockscreen_uim_fail_message">UIM 카드 잠김</string>
-    <string name="eqs_adb_disabled">Wi-Fi를 면저 켜주세요</string>
+    <string name="eqs_adb_disabled">Wi-Fi를 먼저 켜주세요</string>
     <string name="eqs_adb_enabled">연결됨</string>
     <string name="ext_meminfo">%2$d MB 중 %1$d MB 사용가능</string>
     <string name="ext_cpuinfo">%1$s-%2$s MHz, %3$s</string>
