@@ -22,7 +22,7 @@
     <string name="app_name">베놈 트윅</string>
     <string name="about">정보</string>
     <string name="systemui">상태바</string>
-    <string name="main">General</string>
+    <string name="main">일반</string>
     <string name="rosie">센스</string>
     <string name="lockscreen">잠금화면</string>
     <string name="misc">기타설정</string>
@@ -40,15 +40,15 @@
     <string name="use_custom_app_title">사용자 애플리케이션</string>
     <string name="use_custom_app_summary">Use custom application instead of the recent applications dialog</string>
     <string name="select_custom_app_title">Select custom application</string>
-    <string name="group_applications">어플리케이션</string>
+    <string name="group_applications">애플리케이션</string>
     <string name="menu_preferences_label">설정</string>
     <string name="menu_dialog_label">Dialog Picker</string>
     <string name="dialog_set_number">설정</string>
     <string name="dialog_cancel">취소</string>
     <string name="dialog_picker_title">번호 선택</string>
     <string name="different_tweaks">기타 트윅</string>
-    <string name="phone_info">폰 정보</string>
-    <string name="phone_info_summary">숨겨진 HTC 폰의 정보</string>
+    <string name="phone_info">기기 정보</string>
+    <string name="phone_info_summary">HTC 기기의 숨겨진 정보</string>
     <string name="capacitive_backlight">하단 불빛 밝기</string>
     <string name="capacitive_backlight_summary">하단의 하드웨어키의 밝기를 선택합니다</string>
     <string name="overscroll_glow_color">오버스크롤 색깔</string>
@@ -63,9 +63,9 @@
     <string name="aosp_lockscreen_summary">AOSP JB 잠금화면 활성화</string>
     <string name="carrier_caption">잠금화면 문구</string>
     <string name="carrier_caption_summary">잠금화면에 있는 통신사 문구를 바꿉니다</string>
-    <string name="volume_wake">볼륨 업키로 화면 키기</string>
-    <string name="volume_wake_summary">볼륨 업버튼을 누르면 화면이 켜지게 합니다</string>
-    <string name="unlock_buttons">버튼으로 언락</string>
+    <string name="volume_wake">볼륨을 올려 화면 키기</string>
+    <string name="volume_wake_summary">볼륨을 올리면 화면이 켜지게 합니다</string>
+    <string name="unlock_buttons">버튼을 눌러 화면 키기</string>
     <string name="unlock_buttons_summary">잠금화면을 풀 버튼를 고릅니다</string>
     <string name="clock_options">시계 옵션</string>
     <string name="clock_style">시계 스타일</string>
@@ -148,7 +148,7 @@
     <string name="lockscreen_hide_navbar_summary">Hide navbar behind lock ring</string>
     <string name="lockscreen_hide_navbar">Hide navbar</string>
     <string name="use_media_summary">화면이 꺼졌을때, 길게 눌러서 할 작업을 정합니다</string>
-    <string name="use_media">볼륨키로 음악 조절</string>
+    <string name="use_media">볼륨키로 음악 제어</string>
     <string name="extended_statusbartext">두번째 줄</string>
     <string name="extended_statusbartext_summary">시계,설정 등 아이콘이 있는 곳 밑에 정보를 보여줍니다</string>
     <string name="extended_statusbartext_color">정보 줄 색깔</string>
@@ -211,7 +211,7 @@
     <string name="msg_wiped_cache">캐쉬가 삭제되었습니다</string>
     <string name="msg_wiped_dalvik">달빅 캐쉬가 삭제되었습니다</string>
     <string name="msg_preparing">준비중…</string>
-    <string name="msg_clearing">Clearing…</string>
+    <string name="msg_clearing">지우는중…</string>
     <string name="zip_aligning_apk">"집얼라인중:
 %1$s"</string>
     <string name="zip_aligning_apk_done">"집얼라인이 완료되었습니다.
@@ -300,7 +300,7 @@
     <string name="rosie_icon_default_summary">HTC 기본 아이콘</string>
     <string name="disable_logcat">로그캣 비활성화</string>
     <string name="disable_logcat_summary">약간의 성능과 배터리를 향상시키지만, 로그캣을 볼 수 없습니다</string>
-    <string name="fix_permissions_summary">권한이 맞지 않는 파일들을 고쳐놓습니다</string>
+    <string name="fixsions_summary">권한이 맞지 않는 파일들을 고쳐놓습니다</string>
     <string name="zipalign_apks_summary">모든 사용자 어플을 집얼라인합니다</string>
     <string name="wipe_cache_confirm">캐시가 지워집니다, 계속하시겠습니까?</string>
     <string name="wipe_dalvik_confirm">달빅 캐시가 지워집니다, 계속하시겠습니까? #다시 시작됩니다!</string>
