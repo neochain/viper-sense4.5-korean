@@ -337,12 +337,12 @@
         <item>2</item>
     </string-array>
     <string-array name="unlock_buttons_entries">
-        <item>백</item>
+        <item>뒤</item>
         <item>홈</item>
         <item>최근</item>
     </string-array>
     <string-array name="unlock_4buttons_entries">
-        <item>백</item>
+        <item>뒤</item>
         <item>홈</item>
         <item>메뉴</item>
         <item>검색</item>

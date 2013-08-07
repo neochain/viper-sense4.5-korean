@@ -171,19 +171,19 @@
     <string name="hide_battery">아이콘 숨기기</string>
     <string name="shortpress_recent">Shortpress Recent</string>
     <string name="shortpress_recent_summary">Customize short press Recent apps action</string>
-    <string name="shortpress_search">검색키를 짧게 눌렀을때</string>
-    <string name="shortpress_search_summary">검색키를 짧게 눌렀을때 실행할 일을 결정합니다</string>
-    <string name="longpress_home">홈키를 길게 눌렀을때</string>
-    <string name="longpress_home_summary">홈키를 길게 눌렀을때 실행할 일을 결정합니다</string>
-    <string name="longpress_back">백키를 길게 눌렀을때</string>
-    <string name="longpress_back_summary">백키를 길게 눌렀을때 실행할 일을 결정합니다</string>
+    <string name="shortpress_search">검색키를 누를때</string>
+    <string name="shortpress_search_summary">검색키를 짧게 누를때 실행할 일을 결정합니다</string>
+    <string name="longpress_home">홈키를 길게 누를때</string>
+    <string name="longpress_home_summary">홈키를 길게 누를때 실행할 일을 결정합니다</string>
+    <string name="longpress_back">뒤로 가기를 길게 누를때</string>
+    <string name="longpress_back_summary">뒤로 가기를 길게 누를때 실행할 일을 결정합니다</string>
     <string name="longpress_recent">Longpress Recent</string>
     <string name="longpress_recent_summary">Customize long press Recent apps action</string>
-    <string name="longpress_search">검색키를 길게 눌렀을때</string>
-    <string name="longpress_search_summary">검색키를 길게 눌렀을때 실행할 일을 결정합니다</string>
-    <string name="longpress_menu">메뉴를 길게 눌렀을때</string>
-    <string name="longpress_menu_summary">메뉴를 길게 눌렀을때 실행할 일을 결정합니다</string>
-    <string name="app_picker">어플리케이션 선택</string>
+    <string name="longpress_search">검색키를 길게 누를때</string>
+    <string name="longpress_search_summary">검색키를 길게 누를때 실행할 일을 결정합니다</string>
+    <string name="longpress_menu">메뉴를 길게 누를때</string>
+    <string name="longpress_menu_summary">메뉴를 길게 누를때 실행할 일을 결정합니다</string>
+    <string name="app_picker">애플리케이션 선택</string>
     <string name="automotive_navapp">사용자 내비게이션</string>
     <string name="automotive_navapp_summary">구글내비에서 HTC 카대신 다른 어플을 사용합니다</string>
     <string name="automotive_musicapp">사용자 음악 앱</string>
@@ -195,7 +195,7 @@
     <string name="statusbar_trans">투명화</string>
     <string name="statusbar_trans_summary">상태바의 투명정도를 조절합니다</string>
     <string name="statusbar_trans_home">홈에 있을때</string>
-    <string name="statusbar_trans_app">다른 어플리케이션에 있을때</string>
+    <string name="statusbar_trans_app">다른 애플리케이션에 있을때</string>
     <string name="battsaver_info">파워세이버 설정</string>
     <string name="battsaver_summary">Hidden HTC battery saver screen</string>
     <string name="htc_settings">HTC 숨겨진 설정</string>
@@ -220,7 +220,7 @@
 %1$s"</string>
     <string name="fixing_apk_done">"권한 수정이 완료되었습니다.
 %1$d 개의 애플리케이션을 체크했습니다."</string>
-    <string name="longress_home_ls">홈키를 길게 눌렀을때</string>
+    <string name="longress_home_ls">홈키를 길게 누를때</string>
     <string name="longress_home_ls_summary">잠금화면에서 홈키를 길게 누를때 작업을 선택합니다</string>
     <string name="use_xloud">Sony XLoud 활성화</string>
     <string name="use_xloud_summary">소니의 음향 기술</string>
@@ -281,8 +281,8 @@
     <string name="hide_settings_summary">설정 버튼를 상태바 오른쪽에서 사라지게 합니다</string>
     <string name="systemui_settings_summary">설정 대신에 다른 앱을 오게 합니다</string>
     <string name="systemui_settings">사용자 앱</string>
-    <string name="systemui_carrier_summary">통신사 문구를 클릭하면 선택한 어플이 실행되게 합니다</string>
-    <string name="systemui_carrier">사용자 앱 실행</string>
+    <string name="systemui_header_summary">상태바를 내려 시계를 클릭하면 앱이 실행됩니다</string>
+    <string name="systemui_header">사용자 앱 실행</string>
     <string name="autobacklight_brightness">화면 밝기</string>
     <string name="autobacklight_brightness_summary">화면 밝기의 강도를 설정합니다</string>
     <string name="autobacklight_brightness_mode">모드</string>
@@ -290,8 +290,8 @@
     <string name="manual_autobrightness_sliders">밝기를 설정하세요</string>
     <string name="rosie_ringscroll">무한 스크롤</string>
     <string name="rosie_ringscroll_summary">모든 화면에서 계속 스크롤을 할 수 있습니다</string>
-    <string name="keyboard_longpress">길게 누를때 작업</string>
-    <string name="keyboard_shortpress">짧게 누를때 작업</string>
+    <string name="keyboard_longpress">키를 길게 누를때 </string>
+    <string name="keyboard_shortpress">키를 짧게 누를때</string>
     <string name="camera_use_volume">볼륨키로 사진 찍기</string>
     <string name="camera_use_volume_summary">카메라에서 볼륨 업을 눌러 동영상 녹화를 시작/중지하고 볼륨 다운을 눌러 사진을 찍습니다</string>
     <string name="rosie_icon_theme">아이콘 팩</string>
@@ -314,7 +314,7 @@
     <string name="lockscreen_shortcuts_summary">잠금화면 바로가기를 사용자가 설정합니다</string>
     <string name="custom_shortcuts">사용자 바로가기</string>
     <string name="custom_shortcuts_summary">잠금화면 바로가기를 직접 설정합니다</string>
-    <string name="apps">어플리케이션</string>
+    <string name="apps">애플리케이션</string>
     <string name="shortcut_1">바로가기 1</string>
     <string name="shortcut_2">바로가기 2</string>
     <string name="shortcut_3">바로가기 3</string>
@@ -346,7 +346,7 @@
     <string name="disable_volkeys_on_ls">볼륨키 비활성화</string>
     <string name="disable_volkeys_on_ls_summary">화면이 꺼졌을때 볼륨키를 비활성화합니다, 단 음악이 재생중일때는 활성화합니다</string>
     <string name="longpress_timeout">길게누르는 시간</string>
-    <string name="longpress_timeout_summary">길게 눌렀을때 실행되는 일이 일어나기까지의 시간을 설정합니다</string>
+    <string name="longpress_timeout_summary">길게 누를때 실행되는 일이 일어나기까지의 시간을 설정합니다</string>
     <string name="use_voldown_screenoff">볼륨 다운키로 화면 끄기</string>
     <string name="use_voldown_screenoff_summary">볼륨 다운버튼을 누르면 화면이 꺼지게 합니다</string>
     <string name="statusbar_icon">상태바 아이콘</string>
@@ -402,7 +402,7 @@
     <string name="confirm_cpu_text_cpu">전압을 낮추고 오버클럭을 하면 기기에 큰 무리가 가해질 수 있습니다. 이 항목들을 사용할때는 당신의 책임이 있습니다.</string>
     <string name="heqs_icons">가로 설정</string>
     <string name="quicklauncher">바로가기 편집</string>
-    <string name="quicklauncher_summary">바로가기에 있을 어플리케이션을 편집합니다</string>
+    <string name="quicklauncher_summary">바로가기에 있을 애플리케이션을 편집합니다</string>
     <string name="quicklauncher_state">바로가기 활성화</string>
     <string name="quicklauncher_state_summary">빠른 설정 탭에서 애플리케이션 바로가기를 활성화합니다</string>
     <string name="scroff_max_freq">화면이 꺼졌을때 최대 클럭</string>
@@ -431,8 +431,8 @@
     <string name="button_gestures">버튼 슬라이드 제스쳐</string>
     <string name="gesture_frommenu_ls">메뉴->검색</string>
     <string name="gesture_frommenu_ls_summary">메뉴키에서 검색키로 슬라이드할 때 실행할 일을 결정합니다</string>
-    <string name="gesture_fromback_ls">백->홈</string>
-    <string name="gesture_fromback_ls_summary">백키에서 홈키로 슬라이드할 때 실행할 일을 결정합니다</string>
+    <string name="gesture_fromback_ls">뒤로 가기->홈</string>
+    <string name="gesture_fromback_ls_summary">뒤로 가기에서 홈키로 슬라이드할 때 실행할 일을 결정합니다</string>
     <string name="donate_us_message">당신은 1€를 베놈팀에 기부함으로써 롬 개발자들을 도울 수 있습니다. 기부를 누른후 베놈트윅 PRO를 사기만 하면 됩니다. 그럼 이 메시지는 더이상 나오지 않습니다.</string>
     <string name="donate_us_button">기부</string>
     <string name="donate_us_title">기부</string>
@@ -544,10 +544,10 @@
     <string name="speed_color_summary">네트워크 속도의 색을 변경합니다</string>
     <string name="extended_bgcolor">배경 색깔</string>
     <string name="extended_bgcolor_summary">알림 줄의 배경 색을 선택합니다</string>
-    <string name="opaque_statusbar">Solid background</string>
-    <string name="opaque_statusbar_summary">Use solid background color instead of default gradient</string>
-    <string name="topstatusbar_bgcolor">Solid color</string>
-    <string name="topstatusbar_bgcolor_summary">Select solid status bar background color</string>
+    <string name="opaque_statusbar">상태바 색 바꾸기</string>
+    <string name="opaque_statusbar_summary">기본 색 대신 새로운 색을 상태바에 적용합니다</string>
+    <string name="topstatusbar_bgcolor">상태바 색상</string>
+    <string name="topstatusbar_bgcolor_summary">상태바 색을 선택합니다</string>
     <string name="animated_background">Animated background</string>
     <string name="misc_notifications">알림</string>
     <string name="notify_buttons">버튼 알림</string>
