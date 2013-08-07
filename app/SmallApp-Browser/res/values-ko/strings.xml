@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">인터넷</string>
+    <string name="app_name">소형 인터넷</string>
     <string name="app_name_canonical">인터넷</string>
-    <string name="no_name">No Name</string>
+    <string name="no_name">이름 없음</string>
     <string name="no_items">항목 없음</string>
     <string name="title">인터넷</string>
     <string name="setting_title">브라우저 설정</string>
@@ -27,7 +27,7 @@
     <string name="backup_bookmark_confirmed_message">백업이 완료되었습니다</string>
     <string name="restore_bookmark_confirmed_message">복원이 완료되었습니다</string>
     <string name="home_url">기본 URL</string>
-    <string name="get_url">Get Current URL</string>
+    <string name="get_url">현재 URL 사용</string>
     <string name="set_url_default">기본 URL 설정</string>
     <string name="can_save_url">끝날때 URL 저장</string>
     <string name="is_show_always_url_bar">항상 검색바 보여줌</string>
@@ -35,23 +35,23 @@
     <string name="resize_option">Resize Option</string>
     <string name="resize_option1">Resize(Def&lt;->Max)</string>
     <string name="resize_option2">Resize(Def->Max->Min->)</string>
-    <string name="load_image_disable">Not display the image</string>
-    <string name="hardware_acceleration">Hardware Acceleration</string>
-    <string name="hardware_acceleration_desc">"Makes in-use Hardware Acceleration
-app more smooth!
-And You Can see MOVIES as Youtube in app.
-But unable to set alpha."</string>
+    <string name="load_image_disable">사진 표시 안 함</string>
+    <string name="hardware_acceleration">하드웨어 가속</string>
+    <string name="hardware_acceleration_desc">"하드웨어 가속을 사용하면
+앱이 더 부드러워집니다!
+그리고 유튜브 앱으로 영화도 볼수 있지요.
+그러나 알파에서는 설정이 불가능합니다."</string>
     <string name="clear_cache">캐쉬 지우기</string>
     <string name="url_error">이상한 URL</string>
-    <string name="clear">CLEAR</string>
+    <string name="clear">지우기</string>
     <string name="get">GET</string>
-    <string name="not_found_app">App Not Found.Open This URL</string>
+    <string name="not_found_app">App	Not Found.Open This URL</string>
     <string name="saved_url">저장됨</string>
     <string name="http_hint">URL을 입력하거나 검색하세요</string>
     <string name="google">https://www.google.com/</string>
     <string name="google_search">m/search?hl=en&amp;q=</string>
     <string name="share">공유하기</string>
-    <string name="on_browser">On Browser</string>
+    <string name="on_browser">브라우저로 열기</string>
     <string name="bookmark_list">북마크 항목</string>
     <string name="open_bookmark">북마크 열기</string>
     <string name="close_bookmark">북마크 닫기</string>
@@ -59,8 +59,8 @@ But unable to set alpha."</string>
     <string name="save_capture">캡쳐하기</string>
     <string name="open_capture">"Capture's URL on Browser"</string>
     <string name="save_capture_error">캡쳐에 실패했습니다</string>
-    <string name="hw_acc_attention">Be reflected restart app.</string>
-    <string name="default_language">기본 언어 사용(EN)</string>
+    <string name="hw_acc_attention">앱을 다시 실행해주세요</string>
+    <string name="default_language">기본 언어 사용(영어)</string>
     <string name="reset_language">언어 설정 초기화</string>
     <string name="window_size">창 크기 ×</string>
 </resources>
