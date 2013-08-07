@@ -548,7 +548,7 @@
         <item>3</item>
     </string-array>
     <string-array name="show_apm_items">
-        <item>재부팅</item>
+        <item>다시 시작</item>
         <item>스크린샷</item>
         <item>비행기 모드</item>
         <item>데이터</item>
@@ -625,8 +625,8 @@
     <string-array name="minfree_entries">
         <item>기본</item>
         <item>멀티태스킹</item>
-        <item>멀티태스킹 익스트림</item>
-        <item>멀티태스킹 얼티밋</item>
+        <item>최고의 멀티태스킹</item>
+        <item>극강의 멀티태스킹</item>
         <item>사용자 설정</item>
     </string-array>
     <string-array name="minfree_values">

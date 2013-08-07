@@ -7,12 +7,12 @@
     <string name="restart_title">다시 시작</string>
     <string name="rosie_restart">설정을 적용하기 위해 센스를 다시 시작하겠습니까?</string>
     <string name="systemui_restart">설정을 적용하기 위해 상태바를 다시 시작하겠습니까?</string>
-    <string name="phone_restart">설정을 적용하기 위해 빠른 시작을 하시겠습니까?</string>
+    <string name="phone_restart">설정을 적용하기 위해 빠른 시작하시겠습니까?</string>
     <string name="phone_full_restart">설정을 적용하기 위해 다시 시작하시겟습니까?</string>
     <string name="rosie_systemui_restart">설정을 적용하기 위해 센스와 상태바를 다시 시작하겠습니까?</string>
     <string name="need_rosie_restart">센스를 다시 시작해주세요!</string>
     <string name="need_systemui_restart">상태바를 다시 시작해주세요!</string>
-    <string name="need_phone_restart">빠른 시작을 해주세요!</string>
+    <string name="need_phone_restart">빠른 시작해주세요!</string>
     <string name="need_phone_full_restart">다시 시작해주세요!</string>
     <string name="need_rosie_systemui_restart">센스와 상태바를 다시 시작해주세요!</string>
     <string name="donate">기부</string>
@@ -33,9 +33,9 @@
     <string name="automatic_battery_enabled">Color will change based on current level</string>
     <string name="automatic_battery_disabled">Battery text has a static color</string>
     <string name="Mautomatic_battery_disabled">Battery bar has a static color</string>
-    <string name="automatic_signal_enabled">Color will change based on signal strength</string>
+    <string name="automatic_signal_enabled">색은 신호 강도에 따라 변합니다</string>
     <string name="automatic_signal_disabled">Signal Icon has a static color</string>
-    <string name="automatic_wifi_enabled">Color will change based on current WiFi Signal Strength</string>
+    <string name="automatic_wifi_enabled">색은 Wi-Fi 강도에 따라 변합니다</string>
     <string name="automatic_wifi_disabled">WiFi Icon has a static color</string>
     <string name="use_custom_app_title">사용자 애플리케이션</string>
     <string name="use_custom_app_summary">Use custom application instead of the recent applications dialog</string>
@@ -245,7 +245,7 @@
     <string name="unlock_slide_summary">홈키에서 검색키까지 슬라이드를 하면 잠금해제가 되게 합니다</string>
     <string name="fast_dormancy">빠른 휴면</string>
     <string name="fast_dormancy_summary">네트워크를 통한 빠른 휴면을 사용합니다. 모든 통신사를 지원하지는 않으니 주의하세요!</string>
-    <string name="internal">Internal</string>
+    <string name="internal">기본</string>
     <string name="rosie_extappdrawer">어플서랍 확장</string>
     <string name="rosie_extappdrawer_summary">어플서랍을 세로에서는 5x6으로 가로에서는 7x3으로 확장합니다</string>
     <string name="gestures">세손가락 제스쳐</string>
@@ -398,7 +398,7 @@
     <string name="apply_on_boot_summary">CPU와 파일 시스템 설정을 기기가 켜질때 자동으로 적용합니다. 무한 부팅이 될 수도 있습니다.</string>
     <string name="confirm_cpu_checkbox">I confirm the above conditions. Do not show the dialog again.</string>
     <string name="confirm_cpu_title">주의</string>
-    <string name="confirm_cpu_text">우리, 베놈팀은, 당신의 기기가 전압을 낮추거나 다운클럭으로 손상을 입어도 책임지지 않습니다. 이 설정들을 사용할때는 당신의 책임이 있습니다!</string>
+    <string name="confirm_cpu_text">기기가 전압을 낮추거나 다운클럭으로 손상을 입어도 책임지지 않습니다. 이 설정들을 사용할때는 당신의 책임이 있습니다!</string>
     <string name="confirm_cpu_text_cpu">전압을 낮추고 오버클럭을 하면 기기에 큰 무리가 가해질 수 있습니다. 이 항목들을 사용할때는 당신의 책임이 있습니다.</string>
     <string name="heqs_icons">가로 설정</string>
     <string name="quicklauncher">바로가기 편집</string>
@@ -450,7 +450,7 @@
     <string name="custom_notifications_summary">잠금화면에서 사용자 앱의 알림을 볼 수 있도록 합니다</string>
     <string name="custom_notifications_pcsc">USB연결</string>
     <string name="custom_notifications_android">시스템 알림</string>
-    <string name="pctool_enable">Enable PC Tool CD</string>
+    <string name="pctool_enable">PC Tool CD 사용</string>
     <string name="pctool_enable_summary">When you connect device to PC, install CD for HTC Sync will be mounted</string>
     <string name="hide_hs_labels">앱 이름 숨기기</string>
     <string name="hide_hs_labels_summary">홈 화면에서 애플리케이션 이름을 숨깁니다</string>
@@ -534,7 +534,7 @@
     <string name="htc_animation_summary">HTC 앱의 탭을 변경할때 전환 효과를 설정합니다</string>
     <string name="fakeimei">가짜 IMEI</string>
     <string name="fakeimei_summary">앱에서 IMEI를 리포트할때 가짜 IMEI를 전송할 앱을 선택합니다</string>
-    <string name="random_imei">Random</string>
+    <string name="random_imei">랜덤</string>
     <string name="fakeimei_dialog">If you want use random IMIE just left this input field empty</string>
     <string name="weather_bgcolor">날씨 배경</string>
     <string name="weather_bgcolor_summary">날씨의 배경 화면을 선택합니다</string>
