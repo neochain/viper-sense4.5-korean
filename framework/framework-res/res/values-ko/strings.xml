@@ -1289,9 +1289,9 @@
     <string name="apm_hotreboot">빠른 시작</string>
     <string name="apm_hotreboot_summary">쉘을 다시 시작합니다</string>
     <string name="apm_recovery">리커버리</string>
-    <string name="apm_recovery_summary">리커버리로 부팅합니다</string>
+    <string name="apm_recovery_summary">리커버리로 시작합니다</string>
     <string name="apm_bootloader">부트로더</string>
-    <string name="apm_bootloader_summary">부트로더로 부팅합니다</string>
+    <string name="apm_bootloader_summary">부트로더로 시작합니다</string>
     <string name="apm_safemode">안전모드</string>
     <string name="apm_safemode_summary">다시 시작하고 제3자 앱은 비활성화합니다</string>
     <string name="apm_screenshot">스크린샷</string>
