@@ -26,11 +26,11 @@
         <item>richmondo|763428|One X ROM chef, Sensation teammmate, developer</item>
     </string-array>
     <string-array name="developers_vipers">
-        <item>m0narX|1016148|ViperS/X+ ROM owner and developer</item>
-        <item>shnizlon|1930589|ViperS/X+ ROM Co owner and developer</item>
-        <item>SebastianFM|2212152|ViperS ROM Co owner, developer, thanks to this man, you have JB on sensation</item>
-        <item>ivicask|1792279|ViperS/X+ ROM developer, tester and good man</item>
-        <item>richmondo|763428|One X ROM chef, Sensation teammmate, developer</item>
+        <item>m0narX|1016148|ViperS/X+ 롬의 소유자, 개발자</item>
+        <item>shnizlon|1930589|ViperS/X+ 롬의 공동 소유자, 개발자</item>
+        <item>SebastianFM|2212152|ViperS 롬의 공동 소유자, 개발자. 이분께 감사하세요. 센세에 센스4+올렸어요.</item>
+        <item>ivicask|1792279|ViperS/X+ 롬의 개발자, 테스터. 좋은 사람입니다</item>
+        <item>richmondo|763428|One X 롬의 요리사(?), 센세이션 팀 동료, 개발자</item>
     </string-array>
     <string-array name="developers_viper4g">
         <item>m0narX|1016148|Team Venom Lead Developer/ViperS/X+ ROM Developer</item>
