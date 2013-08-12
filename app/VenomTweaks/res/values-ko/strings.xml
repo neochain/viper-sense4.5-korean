@@ -558,4 +558,15 @@
     <string name="notify_flash_timeout_summary">플래시라이트가 깜빡이는 시간을 제한합니다</string>
     <string name="notify_buttons_timeout">버튼 시간 제한</string>
     <string name="notify_buttons_timeout_summary">버튼 불빛이 깜빡이는 시간을 제한합니다</string>
+    <string name="ksm">Kernel SamePage Merging</string>
+    <string name="ksm_state">상태</string>
+    <string name="ksm_speed">스캔 속도</string>
+    <string name="ksm_stats">상태</string>
+    <string name="ksm_stats_summary">KSM 사용량 상태를 나타냅니다</string>
+    <string name="ksm_gain_label">Gain</string>
+    <string name="ksm_state_label">상태</string>
+    <string name="ksm_stopped">멈춤</string>
+    <string name="ksm_running">실행중</string>
+    <string name="ksm_starting">시작중 %.1f%%</string>
+    <string name="ksm_scans_label">Full scans</string>
 </resources>

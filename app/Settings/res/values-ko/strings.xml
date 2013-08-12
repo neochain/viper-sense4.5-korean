@@ -190,6 +190,7 @@
     <string name="htc_turn_off_backup_message">휴대폰의 설정, 계정 및 비밀번호, 북마크 및 응용 프로그램을 클라우드로 백업하는 작업을 중지하시겠습니까?</string>
     <string name="htc_icon_glossary_title">아이콘 용어집</string>
     <string name="htc_how_to_videos_title">방법 비디오</string>
+    <string name="htc_keypad_tutorial_title">키패드 설명</string>
     <string name="htc_backup_confirm_dialog_title">지금 백업하시겠습니까?</string>
     <string name="htc_backup_confirm_dialog_message_text">휴대폰을 초기화하기 전에 지금 백업하시겠습니까?</string>
     <string name="htc_backup_confirm_dialog_message_text_with_time">"마지막 백업: %s
@@ -308,6 +309,10 @@
     <string name="htc_internal_sd_card_storage_format_desc">이 작업을 수행하면 휴대폰 저장소가 지워집니다. 저장소에 저장된 모든 데이터가 손실됩니다!</string>
     <string name="htc_internal_sd_card_storage_media_format_button_text">휴대폰 저장소 지우기</string>
     <string name="htc_internal_sd_card_storage_format_final_desc">휴대폰 저장소를 지우고 저장소에 저장된 모든 파일을 삭제하시겠습니까? 작업을 취소할 수 없습니다!</string>
+    <string name="htc_phone_storage_label">휴대폰 저장 공간</string>
+    <string name="htc_erase_encrypted_sd_card_description">암호화된 SD 카드가 다시 포맷됩니다. 카드의 모든 데이터가 지워집니다.</string>
+    <string name="htc_erase_encrypted_phone_storage_description">암호화된 휴대폰 저장소가 다시 포맷됩니다. 휴대폰 저장소의 모든 데이터가 지워집니다.</string>
+    <string name="htc_erase_encrypted_phone_storage_and_sdcard_description">암호화된 휴대폰 저장소 및 SD 카드가 다시 포맷됩니다. 휴대폰 저장소와 SD 카드의 모든 데이터가 지워집니다.</string>
     <string name="htc_tablet_storage_title">태블릿 저장소</string>
     <string name="htc_usb_storage_memory">USB 저장소</string>
     <string name="htc_usb_storage_mount_title">USB 저장소 마운트</string>
@@ -330,7 +335,6 @@
     <string name="htc_usb_storage_format_desc">이 작업을 수행하면 USB 저장소가 지워집니다. 저장소에 저장된 모든 데이터가 손실됩니다!</string>
     <string name="htc_usb_storage_media_format_button_text">USB 저장소 지우기</string>
     <string name="htc_usb_storage_format_final_desc">USB 저장소를 지우고 저장소에 저장된 모든 파일을 삭제하시겠습니까? 작업을 취소할 수 없습니다!</string>
-    <string name="htc_erase_encrypted_sd_card_description">암호화된 SD 카드가 다시 포맷됩니다. 카드의 모든 데이터가 지워집니다.</string>
     <string name="erase_internal_storage">모든 데이터 지우기</string>
     <string name="htc_usb_storage_unmount_inform_text">USB 저장소 마운트가 해제됩니다.</string>
     <string name="htc_usb_storage_dialog_confirm_unmount_title">USB 저장소 마운트 해제</string>
@@ -737,13 +741,13 @@
     <string name="master_clear_rebooting">다시 부팅 중...</string>
     <string name="htc_master_clear_button_text">휴대전화 재설정</string>
     <string name="htc_master_clear_final_button_text"><b>모두 지우기</b></string>
-    <string name="location_agps">aGPS 지원</string>
+    <string name="location_agps">AGPS 지원</string>
     <string name="location_using_and_assistance_server">GPS 위성 속도 향상을 위해 지원 서버 사용</string>
-    <string name="location_btn_agps_network_tracking">aGPS 네트워크 추적</string>
-    <string name="location_btn_agps_server">aGPS 서버</string>
-    <string name="location_warninfo_agps_on">"aGPS를 활성화하려면 aGPS 지원 서버에 연결해야 하며, 이로 인해 추가 요금이 부과될 수 있습니다.
-aGPS 지원 사용 여부를 확인하세요."</string>
-    <string name="agps_network_tracking_title">aGPS 네트워크 추적:</string>
+    <string name="location_btn_agps_network_tracking">AGPS 네트워크 추적</string>
+    <string name="location_btn_agps_server">AGPS 서버</string>
+    <string name="location_warninfo_agps_on">"AGPS를 활성화하려면 AGPS 지원 서버에 연결해야 하며, 이로 인해 추가 요금이 부과될 수 있습니다.
+AGPS 지원 사용 여부를 확인하세요."</string>
+    <string name="agps_network_tracking_title">AGPS 네트워크 추적:</string>
     <string name="agps_network_tracking">네트워크 추적</string>
     <string name="agps_network_tracking_summary_on">네트워크 추적 서비스를 위해 위치 정보 사용</string>
     <string name="agps_network_tracking_privacy_level">개인 정보 수준</string>
@@ -751,9 +755,9 @@ aGPS 지원 사용 여부를 확인하세요."</string>
     <string name="agps_network_tracking_time_to_close">확인 메시지 닫을 시간</string>
     <string name="agps_privacy_level_title">개인 정보 수준:</string>
     <string name="agps_time_to_close_title">확인 메시지 닫을 시간:</string>
-    <string name="agps_server_ip_url">aGPS IP/URL:</string>
-    <string name="agps_server_port">aGPS 서버 포트:</string>
-    <string name="agps_notification_title">aGPS 알림 및 확인</string>
+    <string name="agps_server_ip_url">AGPS IP/URL:</string>
+    <string name="agps_server_port">AGPS 서버 포트:</string>
+    <string name="agps_notification_title">AGPS 알림 및 확인</string>
     <string name="agps_notifycation_message">"위치에 대한 요청이 있습니다.
 
 요청을 수락하시겠습니까?
@@ -1271,6 +1275,15 @@ You consent to disclosure of the location of this handset from U.S. Cellular to
     <string name="smart_pcsc_storage_ums_summary">디스크 드라이브로 사용</string>
     <string name="smart_pcsc_switch_mode_warning_msg">USB 연결 유형을 변경하면 현재 연결이 끊어집니다.</string>
     <string name="smart_pcsc_storage_notification_title">USB 파일 공유</string>
+    <string name="charger_not_support_title">충전 안함</string>
+    <string name="charger_not_support_notification_message">충전할 수 없습니다. 원래 충전기를 사용하십시오.</string>
+    <string name="charger_not_support_dialog_message">연결된 충전기가 이 휴대폰과 호환되지 않습니다. 휴대폰 손상을 방지하기 위해 충전이 중지되었습니다. 충전을 계속하려면 이 휴대폰과 함께 제공된 충전기와 케이블을 사용하십시오.</string>
+    <string name="charger_current_low_title">느리게 충전 중</string>
+    <string name="charger_current_low_notification_message">빠르게 충전하려면 원래 충전기를 사용하십시오.</string>
+    <string name="charger_current_low_dialog_message">연결된 충전기가 충전하는 데 오래 걸립니다. 빠르게 충전하려면 이 휴대폰과 함께 제공된 충전기와 케이블을 사용하십시오.</string>
+    <string name="charger_common_dont_ask">이 메시지를 다시 표시 안 함</string>
+    <string name="charger_not_support_title_kddi">충전 안함</string>
+    <string name="charger_not_support_dialog_message_kddi">충전을 계속하려면 이 휴대폰과 함께 au Common AC 어댑터 04/03을 사용하십시오.</string>
     <string name="status_uim_id">UIM ID</string>
     <string name="video_out_settings_category">비디오 출력 설정(HDMI)</string>
     <string name="display_resolution_title">디스플레이 해상도</string>
@@ -1999,6 +2012,7 @@ SD 카드를 삽입한 경우, 이 카드도 암호화됩니다. 이 경우 SD �
     <string name="findme_dialog_title">HTC mini 찾기</string>
     <string name="findme_dialog_message">찾는 중...</string>
     <string name="omadm_policy_tether_forbidden">시스템 관리자가 이 메시지를 차단했습니다. IT 팀에 도움을 요청하십시오.</string>
+    <string name="settings_shortcut_kddi">설정 바로가기</string>
     <string name="yes">예</string>
     <string name="no">아니요</string>
     <string name="create">만들기</string>
@@ -2576,7 +2590,7 @@ SD 카드를 삽입한 경우, 이 카드도 암호화됩니다. 이 경우 SD �
     <string name="haptic_feedback_enable_title">터치 시 진동</string>
     <string name="audio_record_proc_title">소음 제거</string>
     <string name="volume_media_description">음악, 비디오, 게임 및 기타 미디어</string>
-    <string name="volume_ring_description">벨소리 및 알림</string>
+    <string name="volume_ring_description">벨소리 &amp; 알림</string>
     <string name="volume_notification_description">알림</string>
     <string name="volume_alarm_description">알람</string>
     <string name="volume_ring_mute">벨소리 및 알림 음소거</string>

@@ -84,6 +84,21 @@
         <item>120</item>
         <item>300</item>
     </string-array>
+	    <string-array name="ksm_state_current">
+        <item>실행됨</item>
+        <item>일시정지</item>
+        <item>멈춤</item>
+    </string-array>
+    <string-array name="ksm_state_entries">
+        <item>실행</item>
+        <item>일지정지</item>
+        <item>멈춤</item>
+    </string-array>
+    <string-array name="ksm_state_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
     <string-array name="htc_animation_entries">
         <item>애니메이션 없음</item>
         <item>제목 보여줌</item>
@@ -469,7 +484,7 @@
     <string-array name="quick_settings_entries">
         <item>트윅</item>
         <item>볼륨</item>
-        <item>자동꺼짐</item>
+        <item>절전모드</item>
         <item>자동밝기</item>
         <item>플래시</item>
         <item>자동회전</item>
@@ -486,8 +501,8 @@
         <item>무선 ADB</item>
         <item>작업관리자</item>
         <item>소니 xLOUD</item>
-        <item>재부팅</item>
-        <item>배터리절약</item>
+        <item>다시 시작</item>
+        <item>전원 절약기</item>
         <item>NFC</item>
     </string-array>
     <string-array name="quick_settings_ids">

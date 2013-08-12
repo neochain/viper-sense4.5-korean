@@ -13,4 +13,16 @@
     <string name="normalapps_summary">패널에서 사용할 일반 애플리케이션을 선택합니다</string>
     <string name="behavior">모양</string>
     <string name="recentapps">최근 애플리케이션</string>
+    <string name="toggles">빠른 설정</string>
+    <string name="toggles_summary">빠른 설정을 활성화/재배열합니다</string>
+    <string name="eqs_adb_disabled">Wi-Fi를 먼저 켜주세요</string>
+    <string name="eqs_adb_enabled">연결됨</string>
+    <string name="heqs_screenon">항상 켜짐</string>
+    <string name="enablesection">항목 사용/사용 안 함</string>
+    <string name="enablenormalapps_summary">일반 앱 보기를 사이드패널에서 사용합니다</string>
+    <string name="enablesmallapps_summary">팝업 앱 보기를 사이드패널에서 사용합니다</string>
+    <string name="enabletoggles_summary">빠른 설정을 사이드패널에서 사용합니다</string>
+    <string name="enablerecent_summary">최근 앱 보기를 사이드패널에서 사용합니다</string>
+    <string name="clock">시계 표시</string>
+    <string name="clock_summary">시계를 보여줍니다</string>
 </resources>
