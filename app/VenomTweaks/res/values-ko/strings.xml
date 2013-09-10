@@ -72,7 +72,7 @@
     <string name="clock_style_summary">시계를 가운데/숨길지 결정합니다</string>
     <string name="clock_color">시계 색깔</string>
     <string name="battery_options">배터리 옵션</string>
-    <string name="battery_text_style">Battery Text Style</string>
+    <string name="battery_text_style">배터리 표시 스타일</string>
     <string name="show_miui_battery_bar">MIUI 배터리바</string>
     <string name="miui_battery_bar_height">MIUI 배터리바 높이</string>
     <string name="battery_text_color_settings">배터리 색깔 설정</string>
