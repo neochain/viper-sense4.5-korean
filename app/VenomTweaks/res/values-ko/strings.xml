@@ -60,8 +60,8 @@
     <string name="other">기타</string>
     <string name="appearance">모양</string>
     <string name="aosp_lockscreen">AOSP 잠금화면</string>
-    <string name="aosp_lockscreen_summary">AOSP JB 잠금화면 활성화</string>
-    <string name="carrier_caption">잠금화면 문구</string>
+    <string name="aosp_lockscreen_summary">AOSP JB 잠금화면을 활성화합니다</string>
+    <string name="carrier_caption">통신사 문구</string>
     <string name="carrier_caption_summary">잠금화면에 있는 통신사 문구를 바꿉니다</string>
     <string name="volume_wake">볼륨을 올려 화면 키기</string>
     <string name="volume_wake_summary">볼륨을 올리면 화면이 켜지게 합니다</string>
