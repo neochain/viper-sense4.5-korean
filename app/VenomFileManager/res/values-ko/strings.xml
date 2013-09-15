@@ -109,9 +109,9 @@
     <string name="perm_read">읽기</string>
     <string name="perm_write">쓰기</string>
     <string name="perm_exec">실행</string>
-    <string name="msg_executing">Executing shell script...</string>
-    <string name="dialog_type_exec">Execute script</string>
-    <string name="dialog_type_exec_root">Execute script with root</string>
+    <string name="msg_executing">쉘 스크립트를 실행중...</string>
+    <string name="dialog_type_exec">스크립트 실행</string>
+    <string name="dialog_type_exec_root">스크립트를 루트권한으로 실행</string>
     <string name="file_info_device">기기:</string>
     <string name="file_info_device_fs">파일 시스템:</string>
     <string name="file_info_device_attr">마운트 옵션:</string>
