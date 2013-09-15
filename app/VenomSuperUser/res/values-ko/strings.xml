@@ -91,7 +91,7 @@
     <string name="pref_toast_location_title">팝업 위치</string>
     <string name="pref_toast_location_summary">팝업 알림이 표시될 위치</string>
     <string name="pref_category_nfc_title">NFC</string>
-    <string name="pref_use_allow_tag_title">Use NFC tag to allow</string>
+    <string name="pref_use_allow_tag_title">NFC태그를 사용해 허용</string>
     <string name="pref_use_allow_tag_summary_on">Enter PIN or scan tag to allow</string>
     <string name="pref_use_allow_tag_summary_off">Enter PIN only to allow</string>
     <string name="pref_write_allow_tag_title">Write new allow tag</string>
