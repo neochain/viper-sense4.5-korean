@@ -62,7 +62,7 @@
     <string name="aosp_lockscreen">AOSP 잠금화면</string>
     <string name="aosp_lockscreen_summary">AOSP JB 잠금화면을 활성화합니다</string>
     <string name="carrier_caption">통신사 문구</string>
-    <string name="carrier_caption_summary">잠금화면에 있는 통신사 문구를 바꿉니다</string>
+    <string name="carrier_caption_summary">잠금화면에 있는 통신사 문구를 다른 문구로 대체합니다</string>
     <string name="volume_wake">볼륨을 올려 화면 키기</string>
     <string name="volume_wake_summary">볼륨을 올리면 화면이 켜지게 합니다</string>
     <string name="unlock_buttons">버튼을 눌러 화면 키기</string>
@@ -219,7 +219,7 @@
     <string name="fixing_apk">"수정중:
 %1$s"</string>
     <string name="fixing_apk_done">"권한 수정이 완료되었습니다.
-%1$d 개의 애플리케이션을 체크했습니다."</string>
+%1$d 개의 애플리케이션을 확인했습니다."</string>
     <string name="longress_home_ls">홈키를 길게 누를때</string>
     <string name="longress_home_ls_summary">잠금화면에서 홈키를 길게 누를때 작업을 선택합니다</string>
     <string name="use_xloud">Sony XLoud 활성화</string>
