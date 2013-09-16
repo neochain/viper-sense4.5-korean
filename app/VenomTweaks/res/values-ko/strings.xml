@@ -93,8 +93,8 @@
     <string name="hide_n_reorder">빠른 설정 편집</string>
     <string name="hide_n_reorder_summary">빠른 설정 탭에 있는 설정을 숨기거나 이동합니다</string>
     <string name="notification_pulldown_tweaks">상태바 내림 트윅</string>
-    <string name="notificationbar_caption">상태바 캡션</string>
-    <string name="notificationbar_caption_summary">상태바의 통신사 글씨를 사용자 설정 글씨로 대체합니다</string>
+    <string name="notificationbar_caption">통신사 라벨</string>
+    <string name="notificationbar_caption_summary">상태바의 통신사 라벨을 다른 문구로 대체합니다</string>
     <string name="enable_transparency">Enable Transparency</string>
     <string name="nb_enable_transparency_summary">Will add a transparency to the notification pulldown and quick settings</string>
     <string name="statusbar_transparency">Statusbar visibility</string>
@@ -129,7 +129,7 @@
     <string name="recentapps_bgcolor">Background colour</string>
     <string name="recentapps_bgcolor_summary">Change background colour of dialog</string>
     <string name="h_icon_replace">모바일 데이터 아이콘</string>
-    <string name="h_icon_replace_summary">3G 아이콘을 다른 아이콘으로 바꿉니다</string>
+    <string name="h_icon_replace_summary">H 아이콘을 다른 아이콘으로 바꿉니다</string>
     <string name="clock_hide_ampm_summary">12시간 단위 시계에서 오전/오후를 숨깁니다</string>
     <string name="clock_hide_ampm">오전/오후 숨기기</string>
     <string name="recentapps_hideicons">앱 아이콘 숨기기</string>
@@ -140,8 +140,8 @@
     <string name="rosie_custombg_summary">어플서랍에 보여질 배경이미지를 선택합니다</string>
     <string name="lockscreen_hide_datetime">날짜/시간 숨기기</string>
     <string name="lockscreen_hide_datetime_summary">날짜,시간이나 오전/오후를 숨깁니다</string>
-    <string name="lockscreen_hide_opname">통신사문구 숨기기</string>
-    <string name="lockscreen_hide_opname_summary">잠금화면에서 통신사문구를 숨깁니다</string>
+    <string name="lockscreen_hide_opname">통신사 라벨 숨기기</string>
+    <string name="lockscreen_hide_opname_summary">잠금화면에서 통신사 라벨을 숨깁니다</string>
     <string name="rosie_hideapps">앱 아이콘 숨기기</string>
     <string name="rosie_hideapps_summary">Hide specific app icons from app drawer</string>
     <string name="please_wait">로딩중, 잠시만 기다려주세요...</string>
@@ -166,7 +166,7 @@
     <string name="menu_delete">삭제</string>
     <string name="profile_default">기본 트윅</string>
     <string name="profile_stock">센스 4.5 기본</string>
-    <string name="cm_brightness_control">CM 밝기 조절</string>
+    <string name="cm_brightness_control">슬라이드로 밝기 조절</string>
     <string name="cm_brightness_control_summary">왼쪽-오른쪽으로 슬라이드하여 밝기를 조절합니다</string>
     <string name="hide_battery">아이콘 숨기기</string>
     <string name="shortpress_recent">Shortpress Recent</string>
@@ -196,9 +196,9 @@
     <string name="statusbar_trans_summary">상태바의 투명정도를 조절합니다</string>
     <string name="statusbar_trans_home">홈에 있을때</string>
     <string name="statusbar_trans_app">다른 애플리케이션에 있을때</string>
-    <string name="battsaver_info">파워세이버 설정</string>
+    <string name="battsaver_info">전원 절약기 설정</string>
     <string name="battsaver_summary">Hidden HTC battery saver screen</string>
-    <string name="htc_settings">HTC 숨겨진 설정</string>
+    <string name="htc_settings">HTC의 숨겨진 설정</string>
     <string name="fixing_optimizing">최적화</string>
     <string name="fix_permissions">권한 수정</string>
     <string name="zipalign_apks">집얼라인</string>
@@ -249,7 +249,7 @@
     <string name="rosie_extappdrawer">어플서랍 확장</string>
     <string name="rosie_extappdrawer_summary">어플서랍을 세로에서는 5x6으로 가로에서는 7x3으로 확장합니다</string>
     <string name="gestures">세손가락 제스쳐</string>
-    <string name="gestures_summary">세손가락 제스쳐로 할수있는 작업을 선택합니다</string>
+    <string name="gestures_summary">세손가락 제스쳐로 할 수 있는 작업을 선택합니다</string>
     <string name="enable_gestures">세손가락 제스쳐 활성화</string>
     <string name="direction">제스쳐 방향</string>
     <string name="gesture_left">왼쪽</string>
@@ -270,7 +270,7 @@
     <string name="headset_icon">헤드폰 아이콘</string>
     <string name="sync_icon">동기화 아이콘</string>
     <string name="volume_icon">볼륨 아이콘</string>
-    <string name="data_icon">인터넷 연결 아이콘</string>
+    <string name="data_icon">데이터 아이콘</string>
     <string name="carrier_icon">통신사 아이콘</string>
     <string name="carrier_icon_summary">통신사 아이콘을 정합니다</string>
     <string name="eqs_icons">빠른 설정 아이콘</string>
@@ -370,7 +370,7 @@
     <string name="camera_hidebar_summary">카메라 화면에서 비디오, 사진버튼을 숨깁니다</string>
     <string name="camera_use_search">검색 키로 사진찍기</string>
     <string name="camera_use_search_summary">검색키를 눌러 사진을 찍습니다</string>
-    <string name="block_pulldown">잠금화면에서 못 내리게 하기</string>
+    <string name="block_pulldown">상태바 잠금</string>
     <string name="block_pulldown_summary">잠금화면에서 상태바를 내릴 수 없게 합니다</string>
     <string name="hide_qs">빠른 설정 열기</string>
     <string name="hide_qs_summary">빠른 설정을 여는 방법을 설정합니다</string>
@@ -406,7 +406,7 @@
     <string name="quicklauncher_state">바로가기 활성화</string>
     <string name="quicklauncher_state_summary">빠른 설정 탭에서 애플리케이션 바로가기를 활성화합니다</string>
     <string name="scroff_max_freq">화면이 꺼졌을때 최대 클럭</string>
-    <string name="equalizer">사용자 설정 이퀄라이저</string>
+    <string name="equalizer">사용자 지정 이퀄라이저</string>
     <string name="cpu_applied">CPU와 FS 설정이 적용되었습니다!</string>
     <string name="eq_classical">클래식</string>
     <string name="eq_vocal">보컬</string>

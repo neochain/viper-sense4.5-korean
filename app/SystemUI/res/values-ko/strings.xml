@@ -208,7 +208,7 @@
     <string name="eqs_bt">Bluetooth</string>
     <string name="eqs_gps">GPS</string>
     <string name="eqs_airplane">비행기모드</string>
-    <string name="eqs_flash">플래시</string>
+    <string name="eqs_flash">플래시라이트</string>
     <string name="eqs_hotspot">핫스팟</string>
     <string name="eqs_mobile">모바일 네트워크</string>
     <string name="eqs_rotation">회전</string>
@@ -224,7 +224,7 @@
     <string name="eqs_adb_connect">연결중</string>
     <string name="eqs_volume">볼륨</string>
     <string name="eqs_auto_brightness">자동 밝기</string>
-    <string name="eqs_power_efficiency">배터리 절약</string>
+    <string name="eqs_power_efficiency">전원 절약기</string>
     <string name="eqs_reboot">다시 시작</string>
     <string name="eqs_reboot_summary">모든 앱을 닫고 휴대폰을 다시 시작합니다</string>
     <string name="eqs_wifi_auth">인증하는 중...</string>
