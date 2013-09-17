@@ -327,7 +327,7 @@
     <string name="customize">사용자 설정</string>
     <string name="select_icon">아이콘 선택</string>
     <string name="sweep_wake">Sweep2Wake모드</string>
-    <string name="sweep_wake_summary">화면이 꺼져있어도 키를 슬라이드하면 화면이 켜집니다 (커널에서 지원)</string>
+    <string name="sweep_wake_summary">커널이 지원하면 화면이 꺼진 상태에서도 키를 터치하면 화면이 켜지는 기능을 활성화시킵니다</string>
     <string name="aosp_call_unlock">전화가 오면 잠금해제</string>
     <string name="aosp_call_unlock_summary">전화가 오면 잠금을 해제합니다</string>
     <string name="minfree_mode">메모리 관리</string>
@@ -482,9 +482,9 @@
     <string name="bagreport_notification_summary">여기를 눌러 멈춰주세요</string>
     <string name="bagreport_notification_title">로그캣 기록</string>
     <string name="bugreport">버그 리포트</string>
-    <string name="bugreport_summary">개발자들을 위한 버그리포트를 생성합니다</string>
+    <string name="bugreport_summary">개발자들을 위한 버그리포트 생성</string>
     <string name="bugreport_saved">버그리포트가 %1$s에 저장되었습니다</string>
-    <string name="bugreport_start">시작</string>
+    <string name="bugreport_start"> 시작</string>
     <string name="bugreport_stop">기록 중지</string>
     <string name="bugreport_instruction">&lt;p>&lt;b>버그리포트 생성중:&lt;/b> &lt;p> &lt;ul> &lt;li>Press Start recording button &lt;li>Perform actions to make error &lt;li>If you want to attach screenshots to the report, longpress home button to take screenshot, and it will be attached &lt;li>Press on the notification in notification area to stop recording &lt;li>Open Venom/BugReports folder on your sdcard with any file explorer, and send to us generated zip file &lt;/ul> &lt;/p></string>
     <string name="allowed_rotations">회전 각도</string>
@@ -514,7 +514,7 @@
     <string name="keyboardskin_default">기본 스킨</string>
     <string name="keyboardskin_default_summary">HTC 기본 키보드 스킨 사용</string>
     <string name="open_keyboard">키보드</string>
-    <string name="shortpress_camera_search">검색키로 사진 찍기</string>
+    <string name="shortpress_camera_search">검색을 카메라 키로 사용</string>
     <string name="shortpress_camera_search_summary">검색키를 카메라 키로 사용합니다</string>
     <string name="systemui_volume">볼륨 버튼</string>
     <string name="systemui_volume_summary">알림/빠른 설정 탭에 있을 때 볼륨버튼을 누르면 실행할 작업을 결정합니다</string>
