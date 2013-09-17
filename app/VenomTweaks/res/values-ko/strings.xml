@@ -222,7 +222,7 @@
 %1$d 개의 애플리케이션을 확인했습니다."</string>
     <string name="longress_home_ls">홈키를 길게 누를때</string>
     <string name="longress_home_ls_summary">잠금화면에서 홈키를 길게 누를때 작업을 선택합니다</string>
-    <string name="use_xloud">Sony XLoud 활성화</string>
+    <string name="use_xloud">Sony xLoud 활성화</string>
     <string name="use_xloud_summary">소니의 음향 기술</string>
 	<string name="use_clearphase">Sony ClearPhase 활성화</string>
     <string name="use_clearphase_summary">소니의 음향 기술</string>
