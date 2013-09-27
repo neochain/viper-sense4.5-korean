@@ -45,7 +45,7 @@
     <string name="url_error">이상한 URL</string>
     <string name="clear">지우기</string>
     <string name="get">GET</string>
-    <string name="not_found_app">App	Not Found.Open This URL</string>
+    <string name="not_found_app">앱을 찾을 수 없습니다.Open This URL</string>
     <string name="saved_url">저장됨</string>
     <string name="http_hint">URL을 입력하거나 검색하세요</string>
     <string name="google">https://www.google.com/</string>

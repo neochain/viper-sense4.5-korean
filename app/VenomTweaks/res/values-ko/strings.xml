@@ -327,7 +327,7 @@
     <string name="customize">사용자 설정</string>
     <string name="select_icon">아이콘 선택</string>
     <string name="sweep_wake">Sweep2Wake모드</string>
-    <string name="sweep_wake_summary">화면이 꺼져있어도 키를 슬라이드하면 화면이 켜집니다 (커널에서 지원)</string>
+    <string name="sweep_wake_summary">화면이 꺼져있어도 키를 슬라이드하면 화면이 켜집니다</string>
     <string name="aosp_call_unlock">전화가 오면 잠금해제</string>
     <string name="aosp_call_unlock_summary">전화가 오면 잠금을 해제합니다</string>
     <string name="minfree_mode">메모리 관리</string>
@@ -568,5 +568,5 @@
     <string name="ksm_stopped">멈춤</string>
     <string name="ksm_running">실행중</string>
     <string name="ksm_starting">시작중 %.1f%%</string>
-    <string name="ksm_scans_label">Full scans</string>
+    <string name="ksm_scans_label">스캔 완료</string>
 </resources>
