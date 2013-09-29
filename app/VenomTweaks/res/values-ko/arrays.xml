@@ -26,11 +26,11 @@
         <item>richmondo|763428|One X ROM chef, Sensation teammmate, developer</item>
     </string-array>
     <string-array name="developers_vipers">
-        <item>m0narX|1016148|ViperS/X+ 롬의 소유자, 개발자</item>
-        <item>shnizlon|1930589|ViperS/X+ 롬의 공동 소유자, 개발자</item>
-        <item>SebastianFM|2212152|ViperS 롬의 공동 소유자, 개발자. 이분께 감사하세요. 센세에 센스4+올렸어요.</item>
-        <item>ivicask|1792279|ViperS/X+ 롬의 개발자, 테스터. 좋은 사람입니다</item>
-        <item>richmondo|763428|One X 롬의 요리사(?), 센세이션 팀 동료, 개발자</item>
+        <item>m0narX|1016148|ViperS/X+ 소유자, 개발자</item>
+        <item>shnizlon|1930589|ViperS/X+ 공동 소유자, 개발자</item>
+        <item>SebastianFM|2212152|ViperS 공동 소유자, 개발자. 센세이션에 센스4+를 올렸습니다.</item>
+        <item>ivicask|1792279|ViperS/X+ 개발자, 테스터.</item>
+        <item>richmondo|763428|One X 쿠커, 센세이션 팀 동료, 개발자</item>
     </string-array>
     <string-array name="developers_viper4g">
         <item>m0narX|1016148|Team Venom Lead Developer/ViperS/X+ ROM Developer</item>
@@ -101,10 +101,10 @@
     </string-array>
     <string-array name="htc_animation_entries">
         <item>애니메이션 없음</item>
-        <item>제목 보여줌</item>
-        <item>Shift with content</item>
-        <item>Shift</item>
-        <item>큐브와 컨텐츠</item>
+        <item>제목만 보여줌</item>
+        <item>항목과 이동</item>
+        <item>이동</item>
+        <item>항목과 큐브</item>
         <item>큐브</item>
     </string-array>
     <string-array name="htc_animation_values">
@@ -658,18 +658,18 @@
         <item>2</item>
     </string-array>
     <string-array name="anim_strings">
-        <item>Normal</item>
-        <item>Accelerate and Decelerate</item>
-        <item>Decelerate</item>
-        <item>Accelerate</item>
+        <item>기본</item>
+        <item>빨라졌다 느려짐</item>
+        <item>느려짐</item>
+        <item>빨라짐</item>
     </string-array>
     <string-array name="pulse_values">
         <item>1</item>
         <item>0</item>
     </string-array>
     <string-array name="pulse_strings">
-        <item>Pulse Up and Down</item>
-        <item>Standard</item>
+        <item>돌아옴</item>
+        <item>기본</item>
     </string-array>
     <string-array name="allowed_rotations_items">
         <item>90 도</item>
