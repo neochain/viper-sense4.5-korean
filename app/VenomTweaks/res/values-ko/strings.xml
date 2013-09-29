@@ -533,9 +533,9 @@
     <string name="htc_animation">HTC 전환 애니메이션</string>
     <string name="htc_animation_summary">HTC 앱의 탭을 변경할때 전환 효과를 설정합니다</string>
     <string name="fakeimei">가짜 IMEI</string>
-    <string name="fakeimei_summary">앱에서 IMEI를 리포트할때 가짜 IMEI를 전송할 앱을 선택합니다</string>
-    <string name="random_imei">랜덤</string>
-    <string name="fakeimei_dialog">If you want use random IMIE just left this input field empty</string>
+    <string name="fakeimei_summary">앱에서 IMEI를 리포트할때 가짜 IMEI를 전송합니다</string>
+    <string name="random_imei">무작위</string>
+    <string name="fakeimei_dialog">만약 무작위 IMEI를 사용하고 싶다면 이 칸을 비워주세요</string>
     <string name="weather_bgcolor">날씨 배경</string>
     <string name="weather_bgcolor_summary">날씨의 배경 화면을 선택합니다</string>
     <string name="speed_view">네트워크 속도</string>
