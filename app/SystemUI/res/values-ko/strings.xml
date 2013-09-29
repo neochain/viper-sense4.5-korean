@@ -205,7 +205,7 @@
     <string name="eqs_tweaks_title">베놈 트윅</string>
     <string name="eqs_tweaks_summary">베놈 트윅을 실행합니다</string>
     <string name="eqs_wifi">Wi-Fi</string>
-    <string name="eqs_bt">Bluetooth</string>
+    <string name="eqs_bt">블루투스</string>
     <string name="eqs_gps">GPS</string>
     <string name="eqs_airplane">비행기모드</string>
     <string name="eqs_flash">플래시라이트</string>
