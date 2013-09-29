@@ -469,7 +469,7 @@
     <string name="no_weather">숨기기</string>
     <string name="current_location">현재 위치</string>
     <string name="soft_menu_key">메뉴키를 화면에 추가</string>
-    <string name="soft_menu_keOn-screeny_summary">메뉴키를 화면의 하단이나 상단에 보여줍니다</string>
+    <string name="soft_menu_key_summary">메뉴키를 화면의 하단이나 상단에 보여줍니다</string>
     <string name="lcd_density">밀도 설정</string>
     <string name="import_fromsd">설정 가져오기</string>
     <string name="export_tosd">설정 내보내기</string>
