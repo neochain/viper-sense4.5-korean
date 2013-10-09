@@ -245,7 +245,7 @@
         <item>상태바 확장</item>
         <item>앱 종료</item>
         <item>스크린샷</item>
-        <item>플래시라이트</item>
+        <item>손전등</item>
         <item>음악 - 재생/정지</item>
         <item>음악 - 이전곡</item>
         <item>음악 - 다음곡</item>
@@ -287,7 +287,7 @@
     </string-array>
     <string-array name="longress_home_ls_entries">
         <item>없음</item>
-        <item>플래시 토글</item>
+        <item>손전등 토글</item>
         <item>사용자 앱</item>
     </string-array>
     <string-array name="longress_home_ls_values">
@@ -486,7 +486,7 @@
         <item>볼륨</item>
         <item>절전모드</item>
         <item>자동밝기</item>
-        <item>플래시</item>
+        <item>손전등</item>
         <item>자동회전</item>
         <item>비행기모드</item>
         <item>Wi-Fi</item>
@@ -535,7 +535,7 @@
         <item>오전/오후 숨기기</item>
     </string-array>
     <string-array name="hide_lockscreen_shortcuts_entries">
-        <item>라벨 숨기기</item>
+        <item>문구 숨기기</item>
         <item>Hide bubles</item>
     </string-array>
     <string-array name="hide_noti_entries">
