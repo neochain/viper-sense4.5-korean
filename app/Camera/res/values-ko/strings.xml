@@ -376,7 +376,7 @@
     <string name="image_quality_80">80%</string>
     <string name="image_quality_60">60%</string>
     <string name="image_quality_40">40%</string>
-    <string name="settings_image_quality">사진 인코딩 퀄리티</string>
+    <string name="settings_image_quality">사진 인코딩 품질</string>
     <string name="settings_miscellaneous">Miscellaneous</string>
     <string name="force_video_quality">비디오 비트레이트</string>
     <string name="force_audio_quality">오디오 비트레이트</string>
@@ -399,6 +399,6 @@
     <string name="settings_menu_bar_trans_toast">이 설정들을 적용하기 위해서는 카메라를 다시 시작해야합니다.</string>
     <string name="settings_antibanding">안티밴딩</string>
     <string name="settings_zsl_cam_mode">ZSL 카메라 모드</string>
-    <string name="settings_audio_focus">Gain audio focus</string>
+    <string name="settings_audio_focus">음성 초점 모으기</string>
     <string name="file_name_format">파일 이름 형식</string>
 </resources>
