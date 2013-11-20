@@ -563,7 +563,7 @@
     <string name="ksm_speed">스캔 속도</string>
     <string name="ksm_stats">상태</string>
     <string name="ksm_stats_summary">KSM 사용량 상태를 나타냅니다</string>
-    <string name="ksm_gain_label">Gain</string>
+    <string name="ksm_gain_label">쌓인 량</string>
     <string name="ksm_state_label">상태</string>
     <string name="ksm_stopped">멈춤</string>
     <string name="ksm_running">실행중</string>

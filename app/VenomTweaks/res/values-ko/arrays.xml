@@ -10,26 +10,33 @@
         <item>XL|developers_viperxl|1868236</item>
         <item>XL+|developers_viperxl|2098218</item>
         <item>X|developers_viperx|2087443</item>
+        <item>C2|developers_viperc2|2216858</item>
     </string-array>
     <string-array name="developers_viperx">
         <item>RichmondoUK|763428|One X Rom owner/chef, developer</item>
-        <item>m0narX|1016148|ViperS/X+ ROM owner and developer</item>
+        <item>m0narX|1016148|ViperS/X+ ROM owner and developer, ViperC2 developer</item>
         <item>shnizlon|1930589|ViperS/X+ ROM Co owner and developer</item>
         <item>iximages|4213391|Lead graphic designer</item>
         <item>Patrics83|2374587|Scripting teammate</item>
         <item>fisha21|704359|Theme Graphic designer</item>
     </string-array>
+    <string-array name="developers_viperc2">
+        <item>ivicask|1792279|ViperS/X+ ROM Co owner, ViperC2 owner</item>
+        <item>m0narX|1016148|ViperS/X+ ROM owner and developer, ViperC2 developer</item>
+        <item>dominos_liberty|4817003|ViperC2 ROM and kernel developer</item>
+        <item>shnizlon|1930589|ViperS/X+ ROM Co owner, ViperC2 developer</item>
+    </string-array>
     <string-array name="developers_viperxplus">
-        <item>m0narX|1016148|ViperS/X+ ROM owner and developer</item>
-        <item>shnizlon|1930589|ViperS/X+ ROM Co owner and developer</item>
-        <item>ivicask|1792279|ViperS/X+ ROM developer, tester and good man</item>
+        <item>m0narX|1016148|ViperS/X+ ROM owner and developer, ViperC2 developer</item>
+        <item>shnizlon|1930589|ViperS/X+ ROM Co owner, ViperC2 developer</item>
+        <item>ivicask|1792279|ViperS/X+ ROM Co owner, ViperC2 owner</item>
         <item>richmondo|763428|One X ROM chef, Sensation teammmate, developer</item>
     </string-array>
     <string-array name="developers_vipers">
-        <item>m0narX|1016148|ViperS/X+ 소유자, 개발자</item>
-        <item>shnizlon|1930589|ViperS/X+ 공동 소유자, 개발자</item>
-        <item>SebastianFM|2212152|ViperS 공동 소유자, 개발자. 센세이션에 센스4+를 올렸습니다.</item>
-        <item>ivicask|1792279|ViperS/X+ 개발자, 테스터.</item>
+        <item>m0narX|1016148|ViperS/X+C2 소유자, 개발자</item>
+        <item>shnizlon|1930589|ViperS/X+/C2 공동 소유자, 개발자</item>
+        <item>ivicask|1792279|ViperS/X+ 공동 소유자, ViperC2 소유자</item>
+        <item>SebastianFM|2212152|ViperS 공동 소유자, 개발자. JB을 사용중이라면 이분께 고마워하세요</item>
         <item>richmondo|763428|One X 쿠커, 센세이션 팀 동료, 개발자</item>
     </string-array>
     <string-array name="developers_viper4g">
@@ -85,7 +92,7 @@
         <item>300</item>
     </string-array>
 	    <string-array name="ksm_state_current">
-        <item>실행됨</item>
+        <item>실행됨  (쌓인 량: %1$.1fMB)</item>
         <item>일시정지</item>
         <item>멈춤</item>
     </string-array>
