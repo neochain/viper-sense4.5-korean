@@ -70,7 +70,7 @@
     <string name="clock_options">시계 옵션</string>
     <string name="clock_style">시계 스타일</string>
     <string name="clock_style_summary">시계를 가운데/숨길지 결정합니다</string>
-    <string name="clock_color">시계 색깔</string>
+    <string name="clock_color">시계 색상</string>
     <string name="battery_options">배터리 옵션</string>
     <string name="battery_text_style">배터리 표시 스타일</string>
     <string name="show_miui_battery_bar">MIUI 배터리바</string>
@@ -560,13 +560,8 @@
     <string name="notify_buttons_timeout_summary">버튼 불빛이 깜빡이는 시간을 제한합니다</string>
     <string name="ksm">Kernel SamePage Merging</string>
     <string name="ksm_state">상태</string>
-    <string name="ksm_speed">스캔 속도</string>
-    <string name="ksm_stats">상태</string>
-    <string name="ksm_stats_summary">KSM 사용량 상태를 나타냅니다</string>
-    <string name="ksm_gain_label">쌓인 량</string>
-    <string name="ksm_state_label">상태</string>
-    <string name="ksm_stopped">멈춤</string>
-    <string name="ksm_running">실행중</string>
-    <string name="ksm_starting">시작중 %.1f%%</string>
-    <string name="ksm_scans_label">스캔 완료</string>
+    <string name="ksm_speed">검색할 페이지(속도)</string>
+    <string name="ksm_starting">실행중 %.1f%%%%</string>
+    <string name="pnpmgr">PnPMgr 비활성화</string>
+    <string name="pnpmgr_summary"> CPU클럭과 가버너가 자동 설정됩니다. 직접 설정하고 싶으면 이 설정을 켜주세요</string>
 </resources>
