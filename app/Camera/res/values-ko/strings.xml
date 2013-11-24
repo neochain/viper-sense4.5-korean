@@ -380,7 +380,7 @@
     <string name="settings_miscellaneous">Miscellaneous</string>
     <string name="force_video_quality">비디오 비트레이트</string>
     <string name="force_audio_quality">오디오 비트레이트</string>
-    <string name="hook_vol_keys">볼륨키 누르기</string>
+    <string name="hook_vol_keys">볼륨키 설정</string>
     <string name="image_quality_100">100%</string>
     <string name="image_quality_70">70%</string>
     <string name="image_quality_50">50%</string>

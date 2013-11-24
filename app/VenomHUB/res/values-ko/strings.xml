@@ -61,8 +61,7 @@
     <string name="appdrawer_changed">배경이 바뀝니다!</string>
     <string name="set_as">..로 설정.</string>
     <string name="howto_skins">개인설정->스킨->설치한 스킨 선택</string>
-    <string name="font_test">폰트를 바꾸려면 클릭해주세요.
-English 한국어 12345	</string>
+    <string name="font_test">폰트를 바꾸려면 클릭해주세요. English 한국어 12345	</string>
     <string name="restart_title">다시 시작</string>
     <string name="phone_restart">기기를 다시 시작하시겠습니까?</string>
     <string name="phone_full_restart">기기를 다시 시작하시겠습니까?</string>
