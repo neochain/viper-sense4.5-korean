@@ -76,7 +76,7 @@
     <string name="stop_server">서버 중단</string>
     <string name="storage_warning">저장소가 가능하지 않거나 읽을수 없습니다</string>
     <string name="tab_category">탐색</string>
-    <string name="tab_remote">FTP서버</string>
+    <string name="tab_remote">FTP 서버</string>
     <string name="tab_sd">파일</string>
     <string name="wifi_state">Wi-Fi 상태</string>
     <string name="yes">예</string>
@@ -117,4 +117,24 @@
     <string name="file_info_device_attr">마운트 옵션:</string>
     <string name="exec_result">Execution result</string>
     <string name="total_info">총 공간: %1$s 남은 공간: %2$s</string>
+    <string name="disabled">Disabled</string>
+    <string name="wifi_auth">Auth</string>
+    <string name="wifi_scan">Scaning</string>
+    <string name="wifi_connecting">Connecting to %1$s</string>
+    <string name="wifi_connected">Connected to %1$s</string>
+    <string name="wifi_obtainip">Obtaining address</string>
+    <string name="wifi_on">Enabled</string>
+    <string name="wifi_label">WiFi</string>
+    <string name="notif_server_starting_dlna">DLNA 서버가 시작되었습니다</string>
+    <string name="dlna_notify">DLNA Server</string>
+    <string name="dlna_notify_summary">Enabled</string>
+    <string name="folders">Browse folders</string>
+    <string name="video_all">All video</string>
+    <string name="image_all">All images</string>
+    <string name="music_all">All music</string>
+    <string name="music_artists">Artists</string>
+    <string name="music_album">Albums</string>
+    <string name="new_folder">새 폴더</string>
+    <string name="storage_root">Root</string>
+    <string name="folder_up">Parent folder</string>
 </resources>

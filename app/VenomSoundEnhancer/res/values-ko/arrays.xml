@@ -43,7 +43,7 @@
         <item>Beats Solo</item>
         <item>Beats urBeats v2</item>
         <item>Beats Solo v2</item>
-        <item>Mid-Tier</item>
+        <item>HTC 인-이어</item>
         <item>기타</item>
     </string-array>
     <string-array name="headset_icons">
@@ -65,14 +65,16 @@
     <string-array name="effects_names">
         <item>Beats Audio</item>
         <item>SRS</item>
-        <item>돌비</item>
-        <item>보이스</item>
+        <item>Dolby</item>
+        <item>영화</item>
+        <item>목소리</item>
         <item>이퀄라이저</item>
     </string-array>
     <string-array name="effects_icons">
         <item>icon_launcher_beats_red</item>
         <item>icon_launcher_srs</item>
         <item>icon_launcher_dolby</item>
+        <item>icon_launcher_movie</item>
         <item>icon_launcher_speaker</item>
         <item>icon_launcher_equalizer</item>
     </string-array>

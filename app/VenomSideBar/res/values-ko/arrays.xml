@@ -12,11 +12,11 @@
     </string-array>
     <string-array name="quick_settings_entries">
         <item>볼륨</item>
-        <item>절전모드</item>
-        <item>자동밝기</item>
+        <item>절전 모드</item>
+        <item>자동 밝기</item>
         <item>플래시</item>
         <item>자동회전</item>
-        <item>비행기모드</item>
+        <item>비행 모드</item>
         <item>Wi-Fi</item>
         <item>데이터</item>
         <item>네트워크</item>

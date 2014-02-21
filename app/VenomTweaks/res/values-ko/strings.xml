@@ -92,7 +92,7 @@
     <string name="quicksettings_tweaks">빠른 설정 트윅</string>
     <string name="hide_n_reorder">빠른 설정 편집</string>
     <string name="hide_n_reorder_summary">빠른 설정 탭에 있는 설정을 숨기거나 이동합니다</string>
-    <string name="notification_pulldown_tweaks">상태바 내림 트윅</string>
+    <string name="notification_pulldown_tweaks">상태바를 내렸을 때 설정</string>
     <string name="notificationbar_caption">통신사 문구</string>
     <string name="notificationbar_caption_summary">상태바의 통신사 문구를 다른 문구로 대체합니다</string>
     <string name="enable_transparency">Enable Transparency</string>
@@ -122,8 +122,8 @@
     <string name="notif_bgcolor">배경 색깔</string>
     <string name="notif_bgcolor_summary">상태바를 내린후에 보여질 배경색을 변경합니다</string>
     <string name="rosie_bgcolor">배경 색깔</string>
-    <string name="rosie_bgcolor_summary">어플 서랍의 배경 색을 변경합니다. 알림: 투명색은 어플 서랍의 속도를 저하시킬 수 있습니다</string>
-    <string name="apm_items">전원 메뉴 항목</string>
+    <string name="rosie_bgcolor_summary">어플 서랍의 배경 색을 변경합니다</string>
+    <string name="apm_items">전원 메뉴 편집</string>
     <string name="apm_items_summary">전원 메뉴에 나오는 항목을 변경합니다</string>
     <string name="recentapps_dialog_tweaks">최근 앱 형식</string>
     <string name="recentapps_bgcolor">배경 색</string>
@@ -144,7 +144,7 @@
     <string name="lockscreen_hide_opname_summary">잠금화면에서 통신사 문구를 숨깁니다</string>
     <string name="rosie_hideapps">앱 아이콘 숨기기</string>
     <string name="rosie_hideapps_summary">Hide specific app icons from app drawer</string>
-    <string name="please_wait">로딩중, 잠시만 기다려주세요...</string>
+    <string name="please_wait">잠시만 기다려주세요...</string>
     <string name="lockscreen_hide_navbar_summary">Hide navbar behind lock ring</string>
     <string name="lockscreen_hide_navbar">Hide navbar</string>
     <string name="use_media_summary">화면이 꺼졌을때, 길게 눌러서 할 작업을 정합니다</string>
@@ -154,7 +154,7 @@
     <string name="extended_statusbartext_color">정보 줄 색깔</string>
     <string name="extended_statusbartext_color_summary">정보 줄의 색을 변경합니다</string>
     <string name="statusbarcaption_options">상태바 구성 편집</string>
-    <string name="statusbarcaption_options_summary">시계, 버튼과 기타 줄을 편집합니다</string>
+    <string name="statusbarcaption_options_summary">상태바의 헤더를 편집합니다</string>
     <string name="extended_statusbartext_showicon">아이콘 보여주기</string>
     <string name="extended_statusbartext_showicon_summary">정보 줄에 아이콘을 보여줍니다</string>
     <string name="profiles">프로필</string>
@@ -248,9 +248,9 @@
     <string name="internal">기본</string>
     <string name="rosie_extappdrawer">어플서랍 확장</string>
     <string name="rosie_extappdrawer_summary">어플서랍을 세로에서는 5x6으로 가로에서는 7x3으로 확장합니다</string>
-    <string name="gestures">세손가락 제스쳐</string>
-    <string name="gestures_summary">세손가락 제스쳐로 할 수 있는 작업을 선택합니다</string>
-    <string name="enable_gestures">세손가락 제스쳐 활성화</string>
+    <string name="gestures">3손가락 제스쳐</string>
+    <string name="gestures_summary">3손가락 제스쳐로 할 수 있는 작업을 선택합니다</string>
+    <string name="enable_gestures">3손가락 제스쳐 활성화</string>
     <string name="direction">제스쳐 방향</string>
     <string name="gesture_left">왼쪽</string>
     <string name="gesture_down">아래</string>

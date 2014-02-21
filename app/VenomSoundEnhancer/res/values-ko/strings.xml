@@ -10,4 +10,5 @@
     <string name="xloud">xLoud</string>
     <string name="clearaudio">ClearPhase</string>
     <string name="custom_title">새 이퀄라이저</string>
+    <string name="bluetooth">Bluetooth</string>
 </resources>
