@@ -294,7 +294,7 @@
     </string-array>
     <string-array name="longress_home_ls_entries">
         <item>없음</item>
-        <item>손전등 토글</item>
+        <item>손전등</item>
         <item>사용자 앱</item>
     </string-array>
     <string-array name="longress_home_ls_values">
@@ -359,7 +359,7 @@
         <item>2</item>
     </string-array>
     <string-array name="unlock_buttons_entries">
-        <item>뒤</item>
+        <item>뒤로 가기</item>
         <item>홈</item>
         <item>최근</item>
     </string-array>
