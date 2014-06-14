@@ -510,7 +510,7 @@
     <string name="ime_multiplycolor">Selection color</string>
     <string name="ime_multiplycolor_summary">Set pressed button font color</string>
     <string name="keyboardskin">키보드 스킨</string>
-    <string name="keyboardskin_summary">설치된 키보드 스킨을 선택합니다</string>
+    <string name="keyboardskin_summary">설치된 키보드 스킨을 적용합니다</string>
     <string name="keyboardskin_default">기본 스킨</string>
     <string name="keyboardskin_default_summary">HTC 기본 키보드 스킨 사용</string>
     <string name="open_keyboard">키보드</string>

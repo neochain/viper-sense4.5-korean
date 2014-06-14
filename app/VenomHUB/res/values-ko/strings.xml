@@ -79,11 +79,11 @@
     <string name="version_s">버전:</string>
     <string name="info">더 보기</string>
     <string name="kernel_reboot_recovery">커널을 설치하기 위해서는 리커버리모드로 가야합니다. 계속하시겠습니까?</string>
-    <string name="kernel_install_warning">커널을 바꾸는 것은 위험합니다!! 벽돌이 될 수도 있습니다.</string>
+    <string name="kernel_install_warning">커널을 바꾸는 것은 위험합니다!</string>
     <string name="donate">기부</string>
     <string name="flash">확장팩</string>
     <string name="flash_summary">추가로 설치할 수 있는 확장팩</string>
-    <string name="addon_reboot_recovery">애드온을 설치하기 위해서는 리커버리모드로 가야합니다. 계속하시겠습니까?</string>
+    <string name="addon_reboot_recovery">확장팩을 설치하기 위해서는 리커버리모드로 가야합니다. 계속하시겠습니까?</string>
     <string name="menu_change_nick">이름 바꾸기</string>
     <string name="menu_register">등록</string>
     <string name="menu_clean_cache">캐시 삭제</string>
